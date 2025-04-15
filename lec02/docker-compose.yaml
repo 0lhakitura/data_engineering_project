@@ -1,0 +1,18 @@
+services:
+  flask_api:
+    build: ./flask_api
+    ports:
+      - "8081:8081"
+    networks:
+      - lec02-net
+  data_service:
+    build: ./data_service
+    volumes:
+      - ./db:/app/db
+    depends_on:
+      - flask_api
+    networks:
+      - lec02-net
+networks:
+  lec02-net:
+    driver: bridge
