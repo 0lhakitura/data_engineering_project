@@ -7,6 +7,8 @@ from flask import Flask, request, jsonify
 from flask import typing as flask_typing
 from lec02.hw.job1.bll.sales_api import save_sales_to_local_disk
 
+from dotenv import load_dotenv
+load_dotenv()
 
 AUTH_TOKEN = os.environ.get("AUTH_TOKEN")
 
@@ -15,8 +17,7 @@ if not AUTH_TOKEN:
 
 app = Flask(__name__)
 
-
-@app.route("/", methods=["POST"])
+@app.route("/", methods=["GET"])
 def main() -> flask_typing.ResponseReturnValue:
     """
     Controller that accepts commands via HTTP and triggers the business logic layer.
@@ -55,6 +56,7 @@ def main() -> flask_typing.ResponseReturnValue:
     raw_dir = os.path.join(base_dir, "raw", "sales", date)
 
     try:
+        print(f"Calling save_sales_to_local_disk: {save_sales_to_local_disk}")
         # Trigger business logic to save sales data
         save_sales_to_local_disk(date=date, raw_dir=raw_dir)
 

@@ -2,7 +2,11 @@ import unittest
 from unittest.mock import patch, MagicMock
 
 from lec02.hw.job1.dal.sales_api import get_sales
+from dotenv import load_dotenv
 
+from lec02.hw.job1.main import AUTH_TOKEN
+
+load_dotenv()
 
 class GetSalesTestCase(unittest.TestCase):
     """
@@ -34,7 +38,9 @@ class GetSalesTestCase(unittest.TestCase):
 
         # Ensure the correct API endpoint is called
         mock_get.assert_called_once_with(
-            "https://fake-api-vycpfa6oca-uc.a.run.app/sales", params={"date": date}
+            "https://fake-api-vycpfa6oca-uc.a.run.app/sales",
+            params={"date": date, "page": 1},
+            headers={"Authorization": f"Bearer {AUTH_TOKEN}"}
         )
 
     @patch("lec02.hw.job1.dal.sales_api.requests.get")
