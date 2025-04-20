@@ -106,4 +106,4 @@ class MainFunctionTestCase(TestCase):
         self.assertEqual(201, resp.status_code)
 
         # І що викликався наш мок
-        get_sales_mock.assert_called_with(fake_date)
+        get_sales_mock.assert_called_with(fake_date,fake_raw_dir)
