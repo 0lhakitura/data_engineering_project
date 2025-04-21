@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3431ca6-ffeb-44d7-ada8-28a8f12aba52" name="Changes" comment="Added template files">
+    <list default="true" id="e3431ca6-ffeb-44d7-ada8-28a8f12aba52" name="Changes" comment="Completed project">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec03/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec03/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec03/ht_template/home_task_queries.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec03/pagila-data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec03/pagila-schema.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec02/db/rides.db" beforeDir="false" afterPath="$PROJECT_DIR$/lec02/db/rides.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lec02/hw/bin/.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec02/hw/bin/check_jobs.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec02/hw/bin/check_jobs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lec02/hw/job1/.env" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lec02/hw/job1/dal/.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec02/hw/job1/dal/sales_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec02/hw/job1/dal/sales_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec02/hw/job1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec02/hw/job1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec02/hw/job1/tests/test_dal/test_local_disk.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec02/hw/job1/tests/test_dal/test_local_disk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec02/hw/job1/tests/test_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec02/hw/job1/tests/test_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec02/hw/job2/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,111 +35,88 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/olhakitura/PycharmProjects/data_engineering_project/lec02/hw/job1/tests/test_dal",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/olhakitura/PycharmProjects/data_engineering_project/lec03&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
+      &quot;PostgreSQL&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lec03" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lec02/hw/job1/tests/test_dal" />
       <recent name="$PROJECT_DIR$/lec02" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.check_jobs">
-    <configuration name="check_jobs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="data_engineering_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lec02/hw/bin" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec02/hw/bin/check_jobs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+  <component name="RunManager" selected="Database Script.pagila-data.sql">
+    <configuration name="pagila-data.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/lec03/pagila-data.sql" />
+      <script-mode>FILE</script-mode>
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for job1.tests.test_main.MainFunctionTestCase" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="data_engineering_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lec02/hw" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;job1.tests.test_main.MainFunctionTestCase&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    <configuration name="lec03: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="lec03/docker-compose.yml" />
+        </settings>
+      </deployment>
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_main.TestSaveSalesToAvro" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="data_engineering_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lec02/hw/job2/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_main.TestSaveSalesToAvro&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    <configuration name="lec03/docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="sourceFilePath" value="lec03/docker-compose.yaml" />
+        </settings>
+      </deployment>
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_sales_api.GetSalesTestCase" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="data_engineering_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lec02/hw/job1/tests/test_dal" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_sales_api.GetSalesTestCase&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    <configuration name="lec03/docker-compose.yaml.pagila: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="pagila" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="lec03/docker-compose.yaml" />
+        </settings>
+      </deployment>
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_main.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="data_engineering_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lec02/hw/job2/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/lec02/hw/job2/tests/test_main.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    <configuration name="lec03.postgres: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="postgres" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="lec03/docker-compose.yml" />
+        </settings>
+      </deployment>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.check_jobs" />
-        <item itemvalue="Python tests.Python tests for test_main.TestSaveSalesToAvro" />
-        <item itemvalue="Python tests.Python tests in test_main.py" />
-        <item itemvalue="Python tests.Python tests for job1.tests.test_main.MainFunctionTestCase" />
-        <item itemvalue="Python tests.Python tests for test_sales_api.GetSalesTestCase" />
+        <item itemvalue="Docker.lec03.postgres: Compose Deployment" />
+        <item itemvalue="Docker.lec03: Compose Deployment" />
+        <item itemvalue="Docker.lec03/docker-compose.yaml: Compose Deployment" />
+        <item itemvalue="Docker.lec03/docker-compose.yaml.pagila: Compose Deployment" />
+        <item itemvalue="Database Script.pagila-data.sql" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +134,9 @@
       <workItem from="1744747260446" duration="13000" />
       <workItem from="1744747286980" duration="12473000" />
       <workItem from="1744995712210" duration="10739000" />
-      <workItem from="1745181709815" duration="3496000" />
+      <workItem from="1745181709815" duration="4222000" />
+      <workItem from="1745222717972" duration="2725000" />
+      <workItem from="1745230189759" duration="1282000" />
     </task>
     <task id="LOCAL-00001" summary="Added template files">
       <created>1744747439363</created>
@@ -180,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1745156027651</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed project">
+      <created>1745219069126</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745219069126</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Completed project">
+      <created>1745219123088</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745219123088</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +192,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added template files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added template files" />
+    <MESSAGE value="Completed project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
