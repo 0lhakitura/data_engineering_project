@@ -7,8 +7,7 @@ import os
 from unittest import TestCase, mock
 
 from lec02.hw.job1.dal.local_disk import save_to_disk
-from dotenv import load_dotenv
-load_dotenv()
+
 
 class SaveToDiskTestCase(TestCase):
     """

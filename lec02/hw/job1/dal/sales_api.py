@@ -1,7 +1,6 @@
-import os
 import requests
-from dotenv import load_dotenv
-load_dotenv()
+
+from lec02.hw.job1.main import AUTH_TOKEN
 
 API_URL = "https://fake-api-vycpfa6oca-uc.a.run.app/"
 
@@ -14,7 +13,7 @@ def get_sales(date: str, page: int = 1):
                 "page": page
             },
             headers={
-                "Authorization": f"Bearer {os.environ.get('AUTH_TOKEN')}"
+                "Authorization": f"Bearer {AUTH_TOKEN}"
             }
         )
         if response.status_code == 200:

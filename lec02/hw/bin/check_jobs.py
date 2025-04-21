@@ -1,7 +1,10 @@
 import os
+import time
+
 import requests
 from dotenv import load_dotenv
 load_dotenv()
+
 
 BASE_DIR = os.environ.get("BASE_DIR")
 if not BASE_DIR:
@@ -21,7 +24,7 @@ STG_DIR = os.path.join(BASE_DIR, "stg", "sales", "2022-08-09")
 def run_job1():
     url = f'http://localhost:{JOB1_PORT}/'
 
-    auth_token = '2b8d97ce57d401abd89f45b0079d8790edd940e6' or os.environ.get("AUTH_TOKEN")
+    auth_token = os.environ.get("AUTH_TOKEN")
     if not auth_token:
         raise Exception("AUTH_TOKEN environment variable must be set.")
 
@@ -32,12 +35,12 @@ def run_job1():
     }
 
     headers = {
-        "Authorization": f"Bearer {os.environ.get('AUTH_TOKEN')}",
+        "Authorization": f"Bearer {auth_token}",
         "Content-Type": "application/json"
     }
 
     try:
-        resp = requests.get(url, json=payload, headers=headers)
+        resp = requests.post(url, json=payload, headers=headers)
         print(f"Status code: {resp.status_code}")
         print(f"Response body: {resp.text}")
 
@@ -78,5 +81,5 @@ def run_job2():
 
 if __name__ == '__main__':
     run_job1()
-    #time.sleep(3)
-    #run_job2()
+    time.sleep(3)
+    run_job2()
