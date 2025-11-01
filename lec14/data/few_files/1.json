@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "details": {
+      "age": 30,
+      "address": {
+        "city": "New York",
+        "state": "NY"
+      }
+    }
+  }
+]

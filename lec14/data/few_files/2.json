@@ -1,0 +1,13 @@
+[
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "details": {
+      "age": 25,
+      "address": {
+        "city": "Los Angeles",
+        "state": "CA"
+      }
+    }
+  }
+]

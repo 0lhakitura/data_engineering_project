@@ -1,0 +1,5001 @@
+[{
+  "client": "Norma Fisher",
+  "purchase_date": "2022-08-09",
+  "product": "Vacuum cleaner",
+  "price": "121"
+}, {
+  "client": "Norma Fisher",
+  "purchase_date": "2022-08-13",
+  "product": "Microwave oven",
+  "price": "348"
+}, {
+  "client": "Norma Fisher",
+  "purchase_date": "2022-08-12",
+  "product": "Phone",
+  "price": "1126"
+}, {
+  "client": "Jorge Sullivan",
+  "purchase_date": "2022-08-10",
+  "product": "Microwave oven",
+  "price": "171"
+}, {
+  "client": "Elizabeth Woods",
+  "purchase_date": "2022-08-26",
+  "product": "TV",
+  "price": "1766"
+}, {
+  "client": "Susan Wagner",
+  "purchase_date": "2022-08-26",
+  "product": "Microwave oven",
+  "price": "461"
+}, {
+  "client": "Susan Wagner",
+  "purchase_date": "2022-08-05",
+  "product": "Microwave oven",
+  "price": "561"
+}, {
+  "client": "Peter Montgomery",
+  "purchase_date": "2022-08-03",
+  "product": "TV",
+  "price": "1994"
+}, {
+  "client": "Peter Montgomery",
+  "purchase_date": "2022-08-16",
+  "product": "coffee machine",
+  "price": "2804"
+}, {
+  "client": "Stephanie Collins",
+  "purchase_date": "2022-08-20",
+  "product": "Vacuum cleaner",
+  "price": "403"
+}, {
+  "client": "Stephanie Collins",
+  "purchase_date": "2022-08-18",
+  "product": "coffee machine",
+  "price": "1775"
+}, {
+  "client": "Stephanie Sutton",
+  "purchase_date": "2022-08-09",
+  "product": "Vacuum cleaner",
+  "price": "613"
+}, {
+  "client": "Stephanie Sutton",
+  "purchase_date": "2022-08-30",
+  "product": "TV",
+  "price": "2148"
+}, {
+  "client": "Stephanie Sutton",
+  "purchase_date": "2022-08-01",
+  "product": "Microwave oven",
+  "price": "568"
+}, {
+  "client": "Susan Levy",
+  "purchase_date": "2022-08-20",
+  "product": "coffee machine",
+  "price": "109"
+}, {
+  "client": "Susan Levy",
+  "purchase_date": "2022-08-08",
+  "product": "Vacuum cleaner",
+  "price": "421"
+}, {
+  "client": "Susan Levy",
+  "purchase_date": "2022-08-23",
+  "product": "coffee machine",
+  "price": "2764"
+}, {
+  "client": "Kimberly Smith",
+  "purchase_date": "2022-08-08",
+  "product": "Microwave oven",
+  "price": "213"
+}, {
+  "client": "Jennifer Summers",
+  "purchase_date": "2022-08-03",
+  "product": "Microwave oven",
+  "price": "329"
+}, {
+  "client": "Dana Nguyen",
+  "purchase_date": "2022-08-16",
+  "product": "Microwave oven",
+  "price": "577"
+}, {
+  "client": "Dana Nguyen",
+  "purchase_date": "2022-08-18",
+  "product": "TV",
+  "price": "1117"
+}, {
+  "client": "Cheryl Bradley",
+  "purchase_date": "2022-08-18",
+  "product": "coffee machine",
+  "price": "1122"
+}, {
+  "client": "Cheryl Bradley",
+  "purchase_date": "2022-08-07",
+  "product": "Phone",
+  "price": "1256"
+}, {
+  "client": "Walter Pratt",
+  "purchase_date": "2022-08-20",
+  "product": "Vacuum cleaner",
+  "price": "173"
+}, {
+  "client": "Walter Pratt",
+  "purchase_date": "2022-08-19",
+  "product": "Vacuum cleaner",
+  "price": "404"
+}, {
+  "client": "Bobby Flores",
+  "purchase_date": "2022-08-07",
+  "product": "Phone",
+  "price": "526"
+}, {
+  "client": "Tasha Rodriguez",
+  "purchase_date": "2022-08-22",
+  "product": "TV",
+  "price": "1754"
+}, {
+  "client": "Michelle Kelley",
+  "purchase_date": "2022-08-03",
+  "product": "Vacuum cleaner",
+  "price": "150"
+}, {
+  "client": "Michelle Kelley",
+  "purchase_date": "2022-08-29",
+  "product": "coffee machine",
+  "price": "1166"
+}, {
+  "client": "Kimberly Maynard",
+  "purchase_date": "2022-08-03",
+  "product": "TV",
+  "price": "2225"
+}, {
+  "client": "Laurie Wallace",
+  "purchase_date": "2022-08-09",
+  "product": "coffee machine",
+  "price": "4397"
+}, {
+  "client": "Laurie Wallace",
+  "purchase_date": "2022-08-08",
+  "product": "Microwave oven",
+  "price": "515"
+}, {
+  "client": "Laurie Wallace",
+  "purchase_date": "2022-08-19",
+  "product": "Laptop",
+  "price": "3283"
+}, {
+  "client": "Janice Johnston",
+  "purchase_date": "2022-08-15",
+  "product": "Microwave oven",
+  "price": "240"
+}, {
+  "client": "Janice Johnston",
+  "purchase_date": "2022-08-21",
+  "product": "Vacuum cleaner",
+  "price": "756"
+}, {
+  "client": "Janice Johnston",
+  "purchase_date": "2022-08-03",
+  "product": "coffee machine",
+  "price": "3027"
+}, {
+  "client": "Collin Lopez",
+  "purchase_date": "2022-08-16",
+  "product": "Microwave oven",
+  "price": "159"
+}, {
+  "client": "Collin Lopez",
+  "purchase_date": "2022-08-11",
+  "product": "Microwave oven",
+  "price": "422"
+}, {
+  "client": "Mary Alvarez",
+  "purchase_date": "2022-08-24",
+  "product": "Laptop",
+  "price": "566"
+}, {
+  "client": "Peter Mcdowell",
+  "purchase_date": "2022-08-08",
+  "product": "TV",
+  "price": "1944"
+}, {
+  "client": "Peter Mcdowell",
+  "purchase_date": "2022-08-11",
+  "product": "Phone",
+  "price": "499"
+}, {
+  "client": "Sarah Villanueva",
+  "purchase_date": "2022-08-26",
+  "product": "TV",
+  "price": "706"
+}, {
+  "client": "Sarah Villanueva",
+  "purchase_date": "2022-08-08",
+  "product": "Laptop",
+  "price": "3357"
+}, {
+  "client": "Sarah Villanueva",
+  "purchase_date": "2022-08-19",
+  "product": "TV",
+  "price": "2173"
+}, {
+  "client": "Lauren Hayes",
+  "purchase_date": "2022-08-19",
+  "product": "Microwave oven",
+  "price": "525"
+}, {
+  "client": "Angela Salazar",
+  "purchase_date": "2022-08-27",
+  "product": "TV",
+  "price": "1258"
+}, {
+  "client": "Angela Salazar",
+  "purchase_date": "2022-08-20",
+  "product": "TV",
+  "price": "574"
+}, {
+  "client": "Angela Salazar",
+  "purchase_date": "2022-08-06",
+  "product": "TV",
+  "price": "898"
+}, {
+  "client": "Faith Cabrera",
+  "purchase_date": "2022-08-26",
+  "product": "Laptop",
+  "price": "3478"
+}, {
+  "client": "Faith Cabrera",
+  "purchase_date": "2022-08-22",
+  "product": "TV",
+  "price": "2418"
+}, {
+  "client": "Faith Cabrera",
+  "purchase_date": "2022-08-14",
+  "product": "TV",
+  "price": "1614"
+}, {
+  "client": "Kenneth Kent",
+  "purchase_date": "2022-08-03",
+  "product": "TV",
+  "price": "952"
+}, {
+  "client": "Kenneth Kent",
+  "purchase_date": "2022-08-12",
+  "product": "coffee machine",
+  "price": "2566"
+}, {
+  "client": "Melanie Johnson",
+  "purchase_date": "2022-08-17",
+  "product": "Laptop",
+  "price": "750"
+}, {
+  "client": "Melanie Johnson",
+  "purchase_date": "2022-08-20",
+  "product": "Vacuum cleaner",
+  "price": "120"
+}, {
+  "client": "Melanie Johnson",
+  "purchase_date": "2022-08-13",
+  "product": "TV",
+  "price": "1932"
+}, {
+  "client": "Lisa Johnston",
+  "purchase_date": "2022-08-29",
+  "product": "Phone",
+  "price": "884"
+}, {
+  "client": "Jacob Hooper",
+  "purchase_date": "2022-08-23",
+  "product": "Microwave oven",
+  "price": "186"
+}, {
+  "client": "Jacob Hooper",
+  "purchase_date": "2022-08-25",
+  "product": "coffee machine",
+  "price": "1766"
+}, {
+  "client": "Jacob Hooper",
+  "purchase_date": "2022-08-22",
+  "product": "TV",
+  "price": "2115"
+}, {
+  "client": "Alex Woodward",
+  "purchase_date": "2022-08-17",
+  "product": "Laptop",
+  "price": "1902"
+}, {
+  "client": "Caleb Clark",
+  "purchase_date": "2022-08-30",
+  "product": "TV",
+  "price": "1722"
+}, {
+  "client": "Caleb Clark",
+  "purchase_date": "2022-08-06",
+  "product": "Vacuum cleaner",
+  "price": "761"
+}, {
+  "client": "Brian Green",
+  "purchase_date": "2022-08-29",
+  "product": "coffee machine",
+  "price": "3457"
+}, {
+  "client": "Brian Green",
+  "purchase_date": "2022-08-17",
+  "product": "Microwave oven",
+  "price": "547"
+}, {
+  "client": "Brian Green",
+  "purchase_date": "2022-08-12",
+  "product": "Phone",
+  "price": "1479"
+}, {
+  "client": "Matthew Bell",
+  "purchase_date": "2022-08-05",
+  "product": "coffee machine",
+  "price": "2155"
+}, {
+  "client": "Matthew Bell",
+  "purchase_date": "2022-08-01",
+  "product": "Microwave oven",
+  "price": "453"
+}, {
+  "client": "Matthew Bell",
+  "purchase_date": "2022-08-11",
+  "product": "Vacuum cleaner",
+  "price": "160"
+}, {
+  "client": "William Gonzalez",
+  "purchase_date": "2022-08-25",
+  "product": "Laptop",
+  "price": "1483"
+}, {
+  "client": "William Gonzalez",
+  "purchase_date": "2022-08-20",
+  "product": "Vacuum cleaner",
+  "price": "440"
+}, {
+  "client": "Nicholas Massey",
+  "purchase_date": "2022-08-19",
+  "product": "coffee machine",
+  "price": "3042"
+}, {
+  "client": "Nicholas Massey",
+  "purchase_date": "2022-08-23",
+  "product": "coffee machine",
+  "price": "1184"
+}, {
+  "client": "Caroline Chambers",
+  "purchase_date": "2022-08-27",
+  "product": "Vacuum cleaner",
+  "price": "504"
+}, {
+  "client": "Caroline Chambers",
+  "purchase_date": "2022-08-01",
+  "product": "coffee machine",
+  "price": "761"
+}, {
+  "client": "Amy Lowe",
+  "purchase_date": "2022-08-06",
+  "product": "coffee machine",
+  "price": "2839"
+}, {
+  "client": "Gloria King",
+  "purchase_date": "2022-08-15",
+  "product": "Laptop",
+  "price": "3110"
+}, {
+  "client": "Jessica Thompson",
+  "purchase_date": "2022-08-28",
+  "product": "coffee machine",
+  "price": "4754"
+}, {
+  "client": "Jessica Thompson",
+  "purchase_date": "2022-08-13",
+  "product": "Vacuum cleaner",
+  "price": "112"
+}, {
+  "client": "Jessica Thompson",
+  "purchase_date": "2022-08-14",
+  "product": "coffee machine",
+  "price": "4748"
+}, {
+  "client": "Emily Howard",
+  "purchase_date": "2022-08-09",
+  "product": "Vacuum cleaner",
+  "price": "145"
+}, {
+  "client": "Danielle Castro",
+  "purchase_date": "2022-08-29",
+  "product": "Vacuum cleaner",
+  "price": "620"
+}, {
+  "client": "Patrick Rogers",
+  "purchase_date": "2022-08-25",
+  "product": "Microwave oven",
+  "price": "409"
+}, {
+  "client": "Patrick Rogers",
+  "purchase_date": "2022-08-02",
+  "product": "TV",
+  "price": "2310"
+}, {
+  "client": "Patrick Rogers",
+  "purchase_date": "2022-08-10",
+  "product": "Vacuum cleaner",
+  "price": "413"
+}, {
+  "client": "Douglas Allen",
+  "purchase_date": "2022-08-27",
+  "product": "TV",
+  "price": "2156"
+}, {
+  "client": "Douglas Allen",
+  "purchase_date": "2022-08-18",
+  "product": "Vacuum cleaner",
+  "price": "272"
+}, {
+  "client": "Douglas Allen",
+  "purchase_date": "2022-08-27",
+  "product": "coffee machine",
+  "price": "783"
+}, {
+  "client": "Heather Roberts",
+  "purchase_date": "2022-08-22",
+  "product": "TV",
+  "price": "1322"
+}, {
+  "client": "Travis Schultz",
+  "purchase_date": "2022-08-07",
+  "product": "Phone",
+  "price": "156"
+}, {
+  "client": "Travis Schultz",
+  "purchase_date": "2022-08-25",
+  "product": "TV",
+  "price": "1969"
+}, {
+  "client": "Travis Schultz",
+  "purchase_date": "2022-08-22",
+  "product": "TV",
+  "price": "2184"
+}, {
+  "client": "Matthew Smith",
+  "purchase_date": "2022-08-21",
+  "product": "TV",
+  "price": "1745"
+}, {
+  "client": "George Allen",
+  "purchase_date": "2022-08-23",
+  "product": "Phone",
+  "price": "723"
+}, {
+  "client": "Jamie Hutchinson",
+  "purchase_date": "2022-08-28",
+  "product": "TV",
+  "price": "1474"
+}, {
+  "client": "Jennifer Morales",
+  "purchase_date": "2022-08-01",
+  "product": "coffee machine",
+  "price": "766"
+}, {
+  "client": "Jennifer Morales",
+  "purchase_date": "2022-08-26",
+  "product": "Phone",
+  "price": "1077"
+}, {
+  "client": "Jennifer Morales",
+  "purchase_date": "2022-08-09",
+  "product": "TV",
+  "price": "2264"
+}, {
+  "client": "Jennifer Bates",
+  "purchase_date": "2022-08-27",
+  "product": "coffee machine",
+  "price": "4366"
+}, {
+  "client": "Jeremy Green",
+  "purchase_date": "2022-08-05",
+  "product": "TV",
+  "price": "2285"
+}, {
+  "client": "Jeremy Green",
+  "purchase_date": "2022-08-02",
+  "product": "Phone",
+  "price": "188"
+}, {
+  "client": "Nicole Henson",
+  "purchase_date": "2022-08-18",
+  "product": "coffee machine",
+  "price": "2227"
+}, {
+  "client": "Robin Lopez",
+  "purchase_date": "2022-08-30",
+  "product": "Phone",
+  "price": "1312"
+}, {
+  "client": "Robin Lopez",
+  "purchase_date": "2022-08-24",
+  "product": "TV",
+  "price": "2233"
+}, {
+  "client": "Michael Stewart",
+  "purchase_date": "2022-08-21",
+  "product": "coffee machine",
+  "price": "3857"
+}, {
+  "client": "Michael Stewart",
+  "purchase_date": "2022-08-28",
+  "product": "Vacuum cleaner",
+  "price": "461"
+}, {
+  "client": "Michael Stewart",
+  "purchase_date": "2022-08-07",
+  "product": "Microwave oven",
+  "price": "191"
+}, {
+  "client": "Mitchell Smith",
+  "purchase_date": "2022-08-01",
+  "product": "Microwave oven",
+  "price": "249"
+}, {
+  "client": "Mitchell Smith",
+  "purchase_date": "2022-08-09",
+  "product": "Laptop",
+  "price": "1118"
+}, {
+  "client": "Mitchell Smith",
+  "purchase_date": "2022-08-26",
+  "product": "Phone",
+  "price": "841"
+}, {
+  "client": "Kelsey Davis",
+  "purchase_date": "2022-08-11",
+  "product": "coffee machine",
+  "price": "867"
+}, {
+  "client": "Kelsey Davis",
+  "purchase_date": "2022-08-02",
+  "product": "Microwave oven",
+  "price": "118"
+}, {
+  "client": "Matthew Russo",
+  "purchase_date": "2022-08-19",
+  "product": "Laptop",
+  "price": "1112"
+}, {
+  "client": "Matthew Russo",
+  "purchase_date": "2022-08-13",
+  "product": "Phone",
+  "price": "889"
+}, {
+  "client": "William Garcia",
+  "purchase_date": "2022-08-16",
+  "product": "Phone",
+  "price": "385"
+}, {
+  "client": "Jennifer Miller",
+  "purchase_date": "2022-08-06",
+  "product": "TV",
+  "price": "1130"
+}, {
+  "client": "Brandi Meyer",
+  "purchase_date": "2022-08-10",
+  "product": "Vacuum cleaner",
+  "price": "416"
+}, {
+  "client": "Brandi Meyer",
+  "purchase_date": "2022-08-04",
+  "product": "Vacuum cleaner",
+  "price": "191"
+}, {
+  "client": "Hannah Wiggins",
+  "purchase_date": "2022-08-27",
+  "product": "Vacuum cleaner",
+  "price": "425"
+}, {
+  "client": "Hannah Wiggins",
+  "purchase_date": "2022-08-16",
+  "product": "Phone",
+  "price": "404"
+}, {
+  "client": "Hannah Wiggins",
+  "purchase_date": "2022-08-16",
+  "product": "TV",
+  "price": "1932"
+}, {
+  "client": "Albert Williams",
+  "purchase_date": "2022-08-11",
+  "product": "TV",
+  "price": "1118"
+}, {
+  "client": "Albert Williams",
+  "purchase_date": "2022-08-30",
+  "product": "coffee machine",
+  "price": "1375"
+}, {
+  "client": "Albert Williams",
+  "purchase_date": "2022-08-19",
+  "product": "Laptop",
+  "price": "3067"
+}, {
+  "client": "Kristin Potts",
+  "purchase_date": "2022-08-03",
+  "product": "coffee machine",
+  "price": "812"
+}, {
+  "client": "Kristin Potts",
+  "purchase_date": "2022-08-24",
+  "product": "TV",
+  "price": "905"
+}, {
+  "client": "Kristin Potts",
+  "purchase_date": "2022-08-13",
+  "product": "Laptop",
+  "price": "750"
+}, {
+  "client": "Stephanie Bowman",
+  "purchase_date": "2022-08-10",
+  "product": "Microwave oven",
+  "price": "365"
+}, {
+  "client": "Stephanie Bowman",
+  "purchase_date": "2022-08-26",
+  "product": "Vacuum cleaner",
+  "price": "580"
+}, {
+  "client": "Stephanie Bowman",
+  "purchase_date": "2022-08-22",
+  "product": "Microwave oven",
+  "price": "465"
+}, {
+  "client": "Joshua Clark",
+  "purchase_date": "2022-08-12",
+  "product": "Vacuum cleaner",
+  "price": "165"
+}, {
+  "client": "Alexa Hernandez",
+  "purchase_date": "2022-08-25",
+  "product": "Phone",
+  "price": "1348"
+}, {
+  "client": "Richard Higgins",
+  "purchase_date": "2022-08-12",
+  "product": "Vacuum cleaner",
+  "price": "276"
+}, {
+  "client": "David Williams",
+  "purchase_date": "2022-08-04",
+  "product": "coffee machine",
+  "price": "1752"
+}, {
+  "client": "David Williams",
+  "purchase_date": "2022-08-09",
+  "product": "Vacuum cleaner",
+  "price": "487"
+}, {
+  "client": "David Williams",
+  "purchase_date": "2022-08-02",
+  "product": "Laptop",
+  "price": "3125"
+}, {
+  "client": "Joseph Jones",
+  "purchase_date": "2022-08-04",
+  "product": "Microwave oven",
+  "price": "174"
+}, {
+  "client": "Gary Perry",
+  "purchase_date": "2022-08-12",
+  "product": "Vacuum cleaner",
+  "price": "467"
+}, {
+  "client": "Terry Wells",
+  "purchase_date": "2022-08-16",
+  "product": "TV",
+  "price": "1721"
+}, {
+  "client": "Vanessa Cooper",
+  "purchase_date": "2022-08-21",
+  "product": "Microwave oven",
+  "price": "307"
+}, {
+  "client": "Michael Simmons",
+  "purchase_date": "2022-08-22",
+  "product": "Microwave oven",
+  "price": "353"
+}, {
+  "client": "Michael Simmons",
+  "purchase_date": "2022-08-16",
+  "product": "Phone",
+  "price": "1170"
+}, {
+  "client": "Michael Simmons",
+  "purchase_date": "2022-08-18",
+  "product": "coffee machine",
+  "price": "1754"
+}, {
+  "client": "Nicholas Kline",
+  "purchase_date": "2022-08-23",
+  "product": "TV",
+  "price": "1196"
+}, {
+  "client": "Lori Bennett",
+  "purchase_date": "2022-08-17",
+  "product": "Phone",
+  "price": "222"
+}, {
+  "client": "Lori Bennett",
+  "purchase_date": "2022-08-20",
+  "product": "Laptop",
+  "price": "1552"
+}, {
+  "client": "Margaret Jones",
+  "purchase_date": "2022-08-10",
+  "product": "Vacuum cleaner",
+  "price": "676"
+}, {
+  "client": "Paul Brown",
+  "purchase_date": "2022-08-03",
+  "product": "TV",
+  "price": "2138"
+}, {
+  "client": "Paul Brown",
+  "purchase_date": "2022-08-30",
+  "product": "Microwave oven",
+  "price": "544"
+}, {
+  "client": "Paul Brown",
+  "purchase_date": "2022-08-08",
+  "product": "TV",
+  "price": "635"
+}, {
+  "client": "James Stone",
+  "purchase_date": "2022-08-01",
+  "product": "TV",
+  "price": "1115"
+}, {
+  "client": "John Richards",
+  "purchase_date": "2022-08-26",
+  "product": "Phone",
+  "price": "479"
+}, {
+  "client": "John Richards",
+  "purchase_date": "2022-08-15",
+  "product": "Laptop",
+  "price": "3187"
+}, {
+  "client": "John Richards",
+  "purchase_date": "2022-08-13",
+  "product": "Phone",
+  "price": "1184"
+}, {
+  "client": "Barbara Sanders",
+  "purchase_date": "2022-08-18",
+  "product": "Laptop",
+  "price": "1686"
+}, {
+  "client": "Barbara Sanders",
+  "purchase_date": "2022-08-27",
+  "product": "Microwave oven",
+  "price": "313"
+}, {
+  "client": "Barbara Sanders",
+  "purchase_date": "2022-08-20",
+  "product": "Vacuum cleaner",
+  "price": "477"
+}, {
+  "client": "Andrew Gould",
+  "purchase_date": "2022-08-29",
+  "product": "TV",
+  "price": "1845"
+}, {
+  "client": "Joshua Hernandez",
+  "purchase_date": "2022-08-19",
+  "product": "Phone",
+  "price": "1188"
+}, {
+  "client": "Sherry Simpson",
+  "purchase_date": "2022-08-16",
+  "product": "Phone",
+  "price": "284"
+}, {
+  "client": "Sherry Simpson",
+  "purchase_date": "2022-08-25",
+  "product": "Phone",
+  "price": "770"
+}, {
+  "client": "Erica Jimenez",
+  "purchase_date": "2022-08-02",
+  "product": "Vacuum cleaner",
+  "price": "472"
+}, {
+  "client": "Erica Jimenez",
+  "purchase_date": "2022-08-30",
+  "product": "Laptop",
+  "price": "3125"
+}, {
+  "client": "Erica Jimenez",
+  "purchase_date": "2022-08-10",
+  "product": "Laptop",
+  "price": "1478"
+}, {
+  "client": "Victor Nolan",
+  "purchase_date": "2022-08-02",
+  "product": "TV",
+  "price": "2428"
+}, {
+  "client": "Victor Nolan",
+  "purchase_date": "2022-08-05",
+  "product": "Vacuum cleaner",
+  "price": "507"
+}, {
+  "client": "Amanda Hernandez",
+  "purchase_date": "2022-08-03",
+  "product": "Microwave oven",
+  "price": "467"
+}, {
+  "client": "Amanda Hernandez",
+  "purchase_date": "2022-08-26",
+  "product": "coffee machine",
+  "price": "1340"
+}, {
+  "client": "Amanda Hernandez",
+  "purchase_date": "2022-08-02",
+  "product": "Phone",
+  "price": "992"
+}, {
+  "client": "Richard Kirby",
+  "purchase_date": "2022-08-02",
+  "product": "Vacuum cleaner",
+  "price": "549"
+}, {
+  "client": "Richard Kirby",
+  "purchase_date": "2022-08-25",
+  "product": "TV",
+  "price": "1464"
+}, {
+  "client": "Richard Kirby",
+  "purchase_date": "2022-08-02",
+  "product": "Laptop",
+  "price": "582"
+}, {
+  "client": "Michelle Roman",
+  "purchase_date": "2022-08-04",
+  "product": "coffee machine",
+  "price": "2753"
+}, {
+  "client": "Bradley Melton",
+  "purchase_date": "2022-08-26",
+  "product": "Laptop",
+  "price": "2070"
+}, {
+  "client": "Bradley Melton",
+  "purchase_date": "2022-08-29",
+  "product": "Vacuum cleaner",
+  "price": "193"
+}, {
+  "client": "Ryan Rivera",
+  "purchase_date": "2022-08-30",
+  "product": "Microwave oven",
+  "price": "423"
+}, {
+  "client": "Ryan Rivera",
+  "purchase_date": "2022-08-04",
+  "product": "Phone",
+  "price": "1482"
+}, {
+  "client": "Ryan Rivera",
+  "purchase_date": "2022-08-26",
+  "product": "coffee machine",
+  "price": "2527"
+}, {
+  "client": "Charles Douglas",
+  "purchase_date": "2022-08-30",
+  "product": "Vacuum cleaner",
+  "price": "380"
+}, {
+  "client": "Laura Gregory",
+  "purchase_date": "2022-08-13",
+  "product": "TV",
+  "price": "2101"
+}, {
+  "client": "Norma Mooney",
+  "purchase_date": "2022-08-15",
+  "product": "Phone",
+  "price": "540"
+}, {
+  "client": "Norma Mooney",
+  "purchase_date": "2022-08-03",
+  "product": "Phone",
+  "price": "1444"
+}, {
+  "client": "Norma Mooney",
+  "purchase_date": "2022-08-30",
+  "product": "TV",
+  "price": "2347"
+}, {
+  "client": "Linda Petersen",
+  "purchase_date": "2022-08-17",
+  "product": "Phone",
+  "price": "204"
+}, {
+  "client": "Linda Petersen",
+  "purchase_date": "2022-08-19",
+  "product": "coffee machine",
+  "price": "4763"
+}, {
+  "client": "Linda Petersen",
+  "purchase_date": "2022-08-03",
+  "product": "Laptop",
+  "price": "1440"
+}, {
+  "client": "Rebecca Sandoval",
+  "purchase_date": "2022-08-04",
+  "product": "Microwave oven",
+  "price": "256"
+}, {
+  "client": "Rebecca Sandoval",
+  "purchase_date": "2022-08-29",
+  "product": "Laptop",
+  "price": "2244"
+}, {
+  "client": "Rebecca Sandoval",
+  "purchase_date": "2022-08-30",
+  "product": "Microwave oven",
+  "price": "316"
+}, {
+  "client": "Elizabeth Russell",
+  "purchase_date": "2022-08-14",
+  "product": "TV",
+  "price": "703"
+}, {
+  "client": "Elizabeth Russell",
+  "purchase_date": "2022-08-26",
+  "product": "Laptop",
+  "price": "625"
+}, {
+  "client": "Elizabeth Russell",
+  "purchase_date": "2022-08-22",
+  "product": "Vacuum cleaner",
+  "price": "521"
+}, {
+  "client": "Amy Davidson",
+  "purchase_date": "2022-08-30",
+  "product": "TV",
+  "price": "1517"
+}, {
+  "client": "Amy Davidson",
+  "purchase_date": "2022-08-03",
+  "product": "Phone",
+  "price": "667"
+}, {
+  "client": "Amy Davidson",
+  "purchase_date": "2022-08-04",
+  "product": "Phone",
+  "price": "294"
+}, {
+  "client": "Dustin Greer",
+  "purchase_date": "2022-08-12",
+  "product": "coffee machine",
+  "price": "340"
+}, {
+  "client": "Dustin Greer",
+  "purchase_date": "2022-08-01",
+  "product": "Phone",
+  "price": "514"
+}, {
+  "client": "Andrew Butler",
+  "purchase_date": "2022-08-20",
+  "product": "Phone",
+  "price": "294"
+}, {
+  "client": "William Jenkins",
+  "purchase_date": "2022-08-07",
+  "product": "Laptop",
+  "price": "513"
+}, {
+  "client": "Lorraine Garcia",
+  "purchase_date": "2022-08-30",
+  "product": "Phone",
+  "price": "200"
+}, {
+  "client": "Lorraine Garcia",
+  "purchase_date": "2022-08-28",
+  "product": "Microwave oven",
+  "price": "219"
+}, {
+  "client": "Hannah Reyes",
+  "purchase_date": "2022-08-04",
+  "product": "Laptop",
+  "price": "2359"
+}, {
+  "client": "Katherine Ibarra",
+  "purchase_date": "2022-08-05",
+  "product": "Phone",
+  "price": "678"
+}, {
+  "client": "Katherine Ibarra",
+  "purchase_date": "2022-08-07",
+  "product": "TV",
+  "price": "2479"
+}, {
+  "client": "Katherine Ibarra",
+  "purchase_date": "2022-08-16",
+  "product": "Phone",
+  "price": "836"
+}, {
+  "client": "Julie Chen",
+  "purchase_date": "2022-08-21",
+  "product": "Phone",
+  "price": "1282"
+}, {
+  "client": "Julie Chen",
+  "purchase_date": "2022-08-19",
+  "product": "Phone",
+  "price": "526"
+}, {
+  "client": "Rebecca Stark",
+  "purchase_date": "2022-08-29",
+  "product": "Laptop",
+  "price": "2042"
+}, {
+  "client": "Rebecca Stark",
+  "purchase_date": "2022-08-26",
+  "product": "Laptop",
+  "price": "1012"
+}, {
+  "client": "Melanie Patrick",
+  "purchase_date": "2022-08-08",
+  "product": "Phone",
+  "price": "1191"
+}, {
+  "client": "Rachel Lopez",
+  "purchase_date": "2022-08-12",
+  "product": "Laptop",
+  "price": "1692"
+}, {
+  "client": "Jill Sherman",
+  "purchase_date": "2022-08-28",
+  "product": "coffee machine",
+  "price": "478"
+}, {
+  "client": "Jill Sherman",
+  "purchase_date": "2022-08-01",
+  "product": "Laptop",
+  "price": "2962"
+}, {
+  "client": "Jill Sherman",
+  "purchase_date": "2022-08-23",
+  "product": "Vacuum cleaner",
+  "price": "159"
+}, {
+  "client": "Timothy Tucker",
+  "purchase_date": "2022-08-18",
+  "product": "Vacuum cleaner",
+  "price": "386"
+}, {
+  "client": "Theresa Estrada",
+  "purchase_date": "2022-08-19",
+  "product": "coffee machine",
+  "price": "1265"
+}, {
+  "client": "Theresa Estrada",
+  "purchase_date": "2022-08-21",
+  "product": "Vacuum cleaner",
+  "price": "385"
+}, {
+  "client": "Theresa Estrada",
+  "purchase_date": "2022-08-08",
+  "product": "Phone",
+  "price": "323"
+}, {
+  "client": "Cindy Davis",
+  "purchase_date": "2022-08-21",
+  "product": "coffee machine",
+  "price": "3124"
+}, {
+  "client": "Cindy Davis",
+  "purchase_date": "2022-08-13",
+  "product": "Microwave oven",
+  "price": "129"
+}, {
+  "client": "Cindy Davis",
+  "purchase_date": "2022-08-14",
+  "product": "Vacuum cleaner",
+  "price": "88"
+}, {
+  "client": "Stacy Chan",
+  "purchase_date": "2022-08-12",
+  "product": "Vacuum cleaner",
+  "price": "288"
+}, {
+  "client": "Stacy Chan",
+  "purchase_date": "2022-08-03",
+  "product": "Phone",
+  "price": "1114"
+}, {
+  "client": "Jennifer Torres",
+  "purchase_date": "2022-08-04",
+  "product": "TV",
+  "price": "1067"
+}, {
+  "client": "Jeffery Knight",
+  "purchase_date": "2022-08-30",
+  "product": "coffee machine",
+  "price": "3754"
+}, {
+  "client": "Taylor Perry",
+  "purchase_date": "2022-08-14",
+  "product": "Laptop",
+  "price": "2227"
+}, {
+  "client": "Taylor Perry",
+  "purchase_date": "2022-08-15",
+  "product": "Laptop",
+  "price": "1515"
+}, {
+  "client": "Taylor Perry",
+  "purchase_date": "2022-08-05",
+  "product": "Phone",
+  "price": "1221"
+}, {
+  "client": "Raymond Navarro",
+  "purchase_date": "2022-08-21",
+  "product": "Vacuum cleaner",
+  "price": "726"
+}, {
+  "client": "Raymond Navarro",
+  "purchase_date": "2022-08-25",
+  "product": "TV",
+  "price": "1489"
+}, {
+  "client": "Jeremy Parks",
+  "purchase_date": "2022-08-27",
+  "product": "Phone",
+  "price": "153"
+}, {
+  "client": "Thomas Rivers",
+  "purchase_date": "2022-08-01",
+  "product": "Microwave oven",
+  "price": "336"
+}, {
+  "client": "Thomas Rivers",
+  "purchase_date": "2022-08-04",
+  "product": "Laptop",
+  "price": "1722"
+}, {
+  "client": "Thomas Rivers",
+  "purchase_date": "2022-08-18",
+  "product": "coffee machine",
+  "price": "2567"
+}, {
+  "client": "Angela Jones",
+  "purchase_date": "2022-08-03",
+  "product": "Vacuum cleaner",
+  "price": "562"
+}, {
+  "client": "Allen Bailey",
+  "purchase_date": "2022-08-25",
+  "product": "Laptop",
+  "price": "2727"
+}, {
+  "client": "Allen Bailey",
+  "purchase_date": "2022-08-21",
+  "product": "Vacuum cleaner",
+  "price": "366"
+}, {
+  "client": "Allen Bailey",
+  "purchase_date": "2022-08-09",
+  "product": "TV",
+  "price": "747"
+}, {
+  "client": "Michael Mays",
+  "purchase_date": "2022-08-29",
+  "product": "Vacuum cleaner",
+  "price": "618"
+}, {
+  "client": "Michael Mays",
+  "purchase_date": "2022-08-13",
+  "product": "Microwave oven",
+  "price": "463"
+}, {
+  "client": "Adam Wood",
+  "purchase_date": "2022-08-09",
+  "product": "TV",
+  "price": "2028"
+}, {
+  "client": "Adam Wood",
+  "purchase_date": "2022-08-28",
+  "product": "Phone",
+  "price": "730"
+}, {
+  "client": "Adam Wood",
+  "purchase_date": "2022-08-20",
+  "product": "coffee machine",
+  "price": "1705"
+}, {
+  "client": "John Carter",
+  "purchase_date": "2022-08-11",
+  "product": "Phone",
+  "price": "1242"
+}, {
+  "client": "John Carter",
+  "purchase_date": "2022-08-28",
+  "product": "TV",
+  "price": "1585"
+}, {
+  "client": "Tina Fields",
+  "purchase_date": "2022-08-14",
+  "product": "Laptop",
+  "price": "778"
+}, {
+  "client": "Willie Garcia",
+  "purchase_date": "2022-08-05",
+  "product": "Phone",
+  "price": "1214"
+}, {
+  "client": "Willie Garcia",
+  "purchase_date": "2022-08-21",
+  "product": "Microwave oven",
+  "price": "367"
+}, {
+  "client": "Brooke Hurst",
+  "purchase_date": "2022-08-14",
+  "product": "Microwave oven",
+  "price": "153"
+}, {
+  "client": "Regina Stewart",
+  "purchase_date": "2022-08-10",
+  "product": "coffee machine",
+  "price": "2382"
+}, {
+  "client": "Regina Stewart",
+  "purchase_date": "2022-08-19",
+  "product": "Vacuum cleaner",
+  "price": "460"
+}, {
+  "client": "Regina Stewart",
+  "purchase_date": "2022-08-06",
+  "product": "coffee machine",
+  "price": "1228"
+}, {
+  "client": "Blake Jones",
+  "purchase_date": "2022-08-15",
+  "product": "Vacuum cleaner",
+  "price": "685"
+}, {
+  "client": "Blake Jones",
+  "purchase_date": "2022-08-22",
+  "product": "Laptop",
+  "price": "2792"
+}, {
+  "client": "Blake Jones",
+  "purchase_date": "2022-08-21",
+  "product": "Phone",
+  "price": "875"
+}, {
+  "client": "Juan Yang",
+  "purchase_date": "2022-08-07",
+  "product": "coffee machine",
+  "price": "3500"
+}, {
+  "client": "Juan Yang",
+  "purchase_date": "2022-08-23",
+  "product": "Vacuum cleaner",
+  "price": "580"
+}, {
+  "client": "Juan Yang",
+  "purchase_date": "2022-08-16",
+  "product": "Microwave oven",
+  "price": "262"
+}, {
+  "client": "Jeremy Wood",
+  "purchase_date": "2022-08-24",
+  "product": "Phone",
+  "price": "442"
+}, {
+  "client": "Jeremy Wood",
+  "purchase_date": "2022-08-29",
+  "product": "Vacuum cleaner",
+  "price": "133"
+}, {
+  "client": "Jeremy Wood",
+  "purchase_date": "2022-08-01",
+  "product": "Microwave oven",
+  "price": "210"
+}, {
+  "client": "Amy Ortiz",
+  "purchase_date": "2022-08-29",
+  "product": "Vacuum cleaner",
+  "price": "480"
+}, {
+  "client": "Amy Ortiz",
+  "purchase_date": "2022-08-17",
+  "product": "TV",
+  "price": "2233"
+}, {
+  "client": "Rebecca Hill",
+  "purchase_date": "2022-08-02",
+  "product": "TV",
+  "price": "1239"
+}, {
+  "client": "Rebecca Hill",
+  "purchase_date": "2022-08-01",
+  "product": "TV",
+  "price": "1771"
+}, {
+  "client": "Rebecca Hill",
+  "purchase_date": "2022-08-23",
+  "product": "Phone",
+  "price": "1461"
+}, {
+  "client": "Melissa Flynn",
+  "purchase_date": "2022-08-05",
+  "product": "coffee machine",
+  "price": "1957"
+}, {
+  "client": "Melissa Flynn",
+  "purchase_date": "2022-08-07",
+  "product": "Microwave oven",
+  "price": "247"
+}, {
+  "client": "David Chavez",
+  "purchase_date": "2022-08-13",
+  "product": "Vacuum cleaner",
+  "price": "418"
+}, {
+  "client": "David Chavez",
+  "purchase_date": "2022-08-14",
+  "product": "Laptop",
+  "price": "1854"
+}, {
+  "client": "David Chavez",
+  "purchase_date": "2022-08-05",
+  "product": "coffee machine",
+  "price": "3665"
+}, {
+  "client": "Brenda Ford",
+  "purchase_date": "2022-08-17",
+  "product": "coffee machine",
+  "price": "1308"
+}, {
+  "client": "Brenda Ford",
+  "purchase_date": "2022-08-07",
+  "product": "Phone",
+  "price": "414"
+}, {
+  "client": "Brenda Ford",
+  "purchase_date": "2022-08-12",
+  "product": "Laptop",
+  "price": "2319"
+}, {
+  "client": "Karen Harris",
+  "purchase_date": "2022-08-13",
+  "product": "Vacuum cleaner",
+  "price": "583"
+}, {
+  "client": "Karen Harris",
+  "purchase_date": "2022-08-26",
+  "product": "coffee machine",
+  "price": "1903"
+}, {
+  "client": "Karen Harris",
+  "purchase_date": "2022-08-07",
+  "product": "Laptop",
+  "price": "2299"
+}, {
+  "client": "Edwin Mack",
+  "purchase_date": "2022-08-21",
+  "product": "TV",
+  "price": "979"
+}, {
+  "client": "Edwin Mack",
+  "purchase_date": "2022-08-06",
+  "product": "TV",
+  "price": "2283"
+}, {
+  "client": "Edwin Mack",
+  "purchase_date": "2022-08-24",
+  "product": "Phone",
+  "price": "266"
+}, {
+  "client": "Kimberly Moore",
+  "purchase_date": "2022-08-10",
+  "product": "Laptop",
+  "price": "3001"
+}, {
+  "client": "Crystal Gill",
+  "purchase_date": "2022-08-15",
+  "product": "Phone",
+  "price": "992"
+}, {
+  "client": "Crystal Gill",
+  "purchase_date": "2022-08-23",
+  "product": "TV",
+  "price": "1794"
+}, {
+  "client": "William Martinez",
+  "purchase_date": "2022-08-16",
+  "product": "Microwave oven",
+  "price": "332"
+}, {
+  "client": "William Martinez",
+  "purchase_date": "2022-08-07",
+  "product": "Phone",
+  "price": "1124"
+}, {
+  "client": "William Martinez",
+  "purchase_date": "2022-08-02",
+  "product": "Phone",
+  "price": "694"
+}, {
+  "client": "David Campbell",
+  "purchase_date": "2022-08-10",
+  "product": "Phone",
+  "price": "157"
+}, {
+  "client": "Ricky Torres",
+  "purchase_date": "2022-08-14",
+  "product": "TV",
+  "price": "2111"
+}, {
+  "client": "Joseph Wright",
+  "purchase_date": "2022-08-18",
+  "product": "Microwave oven",
+  "price": "303"
+}, {
+  "client": "Carla Perry",
+  "purchase_date": "2022-08-11",
+  "product": "Vacuum cleaner",
+  "price": "277"
+}, {
+  "client": "Jennifer Osborne",
+  "purchase_date": "2022-08-15",
+  "product": "Phone",
+  "price": "1247"
+}, {
+  "client": "Jennifer Osborne",
+  "purchase_date": "2022-08-01",
+  "product": "Phone",
+  "price": "673"
+}, {
+  "client": "Brooke Terry",
+  "purchase_date": "2022-08-07",
+  "product": "Phone",
+  "price": "314"
+}, {
+  "client": "Kevin Taylor",
+  "purchase_date": "2022-08-09",
+  "product": "Laptop",
+  "price": "1325"
+}, {
+  "client": "Kevin Taylor",
+  "purchase_date": "2022-08-10",
+  "product": "coffee machine",
+  "price": "2568"
+}, {
+  "client": "Heather Kennedy",
+  "purchase_date": "2022-08-12",
+  "product": "Phone",
+  "price": "1137"
+}, {
+  "client": "Heather Kennedy",
+  "purchase_date": "2022-08-02",
+  "product": "coffee machine",
+  "price": "2065"
+}, {
+  "client": "Heather Kennedy",
+  "purchase_date": "2022-08-03",
+  "product": "Phone",
+  "price": "1280"
+}, {
+  "client": "Matthew Brown",
+  "purchase_date": "2022-08-02",
+  "product": "Vacuum cleaner",
+  "price": "528"
+}, {
+  "client": "Matthew Brown",
+  "purchase_date": "2022-08-15",
+  "product": "Vacuum cleaner",
+  "price": "585"
+}, {
+  "client": "Matthew Brown",
+  "purchase_date": "2022-08-03",
+  "product": "Vacuum cleaner",
+  "price": "200"
+}, {
+  "client": "Allison Ruiz",
+  "purchase_date": "2022-08-25",
+  "product": "TV",
+  "price": "2192"
+}, {
+  "client": "Alexandra Rose",
+  "purchase_date": "2022-08-15",
+  "product": "Vacuum cleaner",
+  "price": "298"
+}, {
+  "client": "Maureen Smith",
+  "purchase_date": "2022-08-29",
+  "product": "Microwave oven",
+  "price": "486"
+}, {
+  "client": "Maureen Smith",
+  "purchase_date": "2022-08-06",
+  "product": "Vacuum cleaner",
+  "price": "120"
+}, {
+  "client": "Maureen Smith",
+  "purchase_date": "2022-08-08",
+  "product": "Laptop",
+  "price": "2507"
+}, {
+  "client": "Marc Key",
+  "purchase_date": "2022-08-11",
+  "product": "Phone",
+  "price": "871"
+}, {
+  "client": "Melissa Acosta",
+  "purchase_date": "2022-08-29",
+  "product": "TV",
+  "price": "1640"
+}, {
+  "client": "Melissa Acosta",
+  "purchase_date": "2022-08-18",
+  "product": "Phone",
+  "price": "1399"
+}, {
+  "client": "Melissa Acosta",
+  "purchase_date": "2022-08-10",
+  "product": "Laptop",
+  "price": "3412"
+}, {
+  "client": "Paul Roberts",
+  "purchase_date": "2022-08-15",
+  "product": "Microwave oven",
+  "price": "409"
+}, {
+  "client": "Paul Roberts",
+  "purchase_date": "2022-08-09",
+  "product": "Microwave oven",
+  "price": "424"
+}, {
+  "client": "Paul Roberts",
+  "purchase_date": "2022-08-01",
+  "product": "Phone",
+  "price": "624"
+}, {
+  "client": "Jermaine Fletcher",
+  "purchase_date": "2022-08-08",
+  "product": "coffee machine",
+  "price": "3496"
+}, {
+  "client": "Beverly Lozano",
+  "purchase_date": "2022-08-01",
+  "product": "Phone",
+  "price": "1500"
+}, {
+  "client": "Richard Price",
+  "purchase_date": "2022-08-13",
+  "product": "TV",
+  "price": "749"
+}, {
+  "client": "Richard Price",
+  "purchase_date": "2022-08-04",
+  "product": "coffee machine",
+  "price": "2332"
+}, {
+  "client": "Richard Price",
+  "purchase_date": "2022-08-12",
+  "product": "coffee machine",
+  "price": "4725"
+}, {
+  "client": "Jean Robinson",
+  "purchase_date": "2022-08-22",
+  "product": "coffee machine",
+  "price": "4578"
+}, {
+  "client": "Todd Willis",
+  "purchase_date": "2022-08-03",
+  "product": "Laptop",
+  "price": "1483"
+}, {
+  "client": "Todd Willis",
+  "purchase_date": "2022-08-22",
+  "product": "Microwave oven",
+  "price": "257"
+}, {
+  "client": "James Young",
+  "purchase_date": "2022-08-21",
+  "product": "Laptop",
+  "price": "2028"
+}, {
+  "client": "James Young",
+  "purchase_date": "2022-08-19",
+  "product": "Vacuum cleaner",
+  "price": "373"
+}, {
+  "client": "Cody Brown",
+  "purchase_date": "2022-08-18",
+  "product": "Laptop",
+  "price": "563"
+}, {
+  "client": "Carrie Bishop",
+  "purchase_date": "2022-08-21",
+  "product": "Phone",
+  "price": "1348"
+}, {
+  "client": "Carrie Bishop",
+  "purchase_date": "2022-08-05",
+  "product": "TV",
+  "price": "2162"
+}, {
+  "client": "Michele Hunt",
+  "purchase_date": "2022-08-17",
+  "product": "Laptop",
+  "price": "1224"
+}, {
+  "client": "Michele Hunt",
+  "purchase_date": "2022-08-25",
+  "product": "TV",
+  "price": "777"
+}, {
+  "client": "Michele Hunt",
+  "purchase_date": "2022-08-19",
+  "product": "Laptop",
+  "price": "2534"
+}, {
+  "client": "Shawn Gomez",
+  "purchase_date": "2022-08-05",
+  "product": "Laptop",
+  "price": "3500"
+}, {
+  "client": "Mark Black",
+  "purchase_date": "2022-08-20",
+  "product": "Vacuum cleaner",
+  "price": "441"
+}, {
+  "client": "Tina Spears",
+  "purchase_date": "2022-08-29",
+  "product": "coffee machine",
+  "price": "4183"
+}, {
+  "client": "Christopher Smith",
+  "purchase_date": "2022-08-10",
+  "product": "Vacuum cleaner",
+  "price": "546"
+}, {
+  "client": "Christopher Smith",
+  "purchase_date": "2022-08-08",
+  "product": "TV",
+  "price": "2463"
+}, {
+  "client": "Brenda Buchanan",
+  "purchase_date": "2022-08-26",
+  "product": "coffee machine",
+  "price": "4152"
+}, {
+  "client": "Tracy Sanders",
+  "purchase_date": "2022-08-23",
+  "product": "Microwave oven",
+  "price": "260"
+}, {
+  "client": "Tracy Sanders",
+  "purchase_date": "2022-08-05",
+  "product": "TV",
+  "price": "1030"
+}, {
+  "client": "Tracy Sanders",
+  "purchase_date": "2022-08-23",
+  "product": "Microwave oven",
+  "price": "305"
+}, {
+  "client": "Jody Morgan",
+  "purchase_date": "2022-08-13",
+  "product": "Phone",
+  "price": "747"
+}, {
+  "client": "Jesus Nguyen",
+  "purchase_date": "2022-08-24",
+  "product": "TV",
+  "price": "1145"
+}, {
+  "client": "Andrew Wood",
+  "purchase_date": "2022-08-22",
+  "product": "Phone",
+  "price": "1053"
+}, {
+  "client": "Joseph Lopez",
+  "purchase_date": "2022-08-22",
+  "product": "Phone",
+  "price": "854"
+}, {
+  "client": "Michael Fitzgerald",
+  "purchase_date": "2022-08-12",
+  "product": "Phone",
+  "price": "184"
+}, {
+  "client": "Micheal Williams",
+  "purchase_date": "2022-08-16",
+  "product": "Phone",
+  "price": "195"
+}, {
+  "client": "Julia Wilson",
+  "purchase_date": "2022-08-08",
+  "product": "TV",
+  "price": "525"
+}, {
+  "client": "Brett Cannon",
+  "purchase_date": "2022-08-02",
+  "product": "TV",
+  "price": "2181"
+}, {
+  "client": "Brett Cannon",
+  "purchase_date": "2022-08-05",
+  "product": "Phone",
+  "price": "1015"
+}, {
+  "client": "Thomas Alexander",
+  "purchase_date": "2022-08-05",
+  "product": "Vacuum cleaner",
+  "price": "525"
+}, {
+  "client": "Jeffery Fischer",
+  "purchase_date": "2022-08-21",
+  "product": "Phone",
+  "price": "512"
+}, {
+  "client": "Jeffery Fischer",
+  "purchase_date": "2022-08-13",
+  "product": "Phone",
+  "price": "986"
+}, {
+  "client": "Jeffrey Hawkins",
+  "purchase_date": "2022-08-18",
+  "product": "Phone",
+  "price": "1243"
+}, {
+  "client": "Jeffrey Hawkins",
+  "purchase_date": "2022-08-25",
+  "product": "coffee machine",
+  "price": "3890"
+}, {
+  "client": "Jeffrey Hawkins",
+  "purchase_date": "2022-08-30",
+  "product": "TV",
+  "price": "1656"
+}, {
+  "client": "Jeremy Jacobs",
+  "purchase_date": "2022-08-01",
+  "product": "Vacuum cleaner",
+  "price": "255"
+}, {
+  "client": "Jeremy Jacobs",
+  "purchase_date": "2022-08-20",
+  "product": "Microwave oven",
+  "price": "170"
+}, {
+  "client": "Jeremy Jacobs",
+  "purchase_date": "2022-08-27",
+  "product": "coffee machine",
+  "price": "4310"
+}, {
+  "client": "Debbie Hall",
+  "purchase_date": "2022-08-08",
+  "product": "TV",
+  "price": "1175"
+}, {
+  "client": "Richard Garcia",
+  "purchase_date": "2022-08-26",
+  "product": "Laptop",
+  "price": "590"
+}, {
+  "client": "Danielle Mitchell",
+  "purchase_date": "2022-08-06",
+  "product": "coffee machine",
+  "price": "4699"
+}, {
+  "client": "Shannon Martinez",
+  "purchase_date": "2022-08-20",
+  "product": "Microwave oven",
+  "price": "153"
+}, {
+  "client": "Shannon Martinez",
+  "purchase_date": "2022-08-23",
+  "product": "coffee machine",
+  "price": "3847"
+}, {
+  "client": "Shannon Martinez",
+  "purchase_date": "2022-08-20",
+  "product": "Laptop",
+  "price": "3018"
+}, {
+  "client": "Michael Warner",
+  "purchase_date": "2022-08-01",
+  "product": "Phone",
+  "price": "921"
+}, {
+  "client": "Michael Warner",
+  "purchase_date": "2022-08-16",
+  "product": "coffee machine",
+  "price": "397"
+}, {
+  "client": "Joseph Leonard",
+  "purchase_date": "2022-08-15",
+  "product": "Phone",
+  "price": "458"
+}, {
+  "client": "Joseph Leonard",
+  "purchase_date": "2022-08-12",
+  "product": "Laptop",
+  "price": "2578"
+}, {
+  "client": "Mark Mitchell",
+  "purchase_date": "2022-08-11",
+  "product": "coffee machine",
+  "price": "3415"
+}, {
+  "client": "Robert Tran",
+  "purchase_date": "2022-08-01",
+  "product": "Vacuum cleaner",
+  "price": "482"
+}, {
+  "client": "Robert Tran",
+  "purchase_date": "2022-08-29",
+  "product": "Phone",
+  "price": "1236"
+}, {
+  "client": "Kevin Johnson",
+  "purchase_date": "2022-08-02",
+  "product": "Microwave oven",
+  "price": "340"
+}, {
+  "client": "Kevin Johnson",
+  "purchase_date": "2022-08-18",
+  "product": "Microwave oven",
+  "price": "392"
+}, {
+  "client": "James Daugherty",
+  "purchase_date": "2022-08-15",
+  "product": "coffee machine",
+  "price": "413"
+}, {
+  "client": "James Daugherty",
+  "purchase_date": "2022-08-13",
+  "product": "Vacuum cleaner",
+  "price": "202"
+}, {
+  "client": "Angela Hubbard",
+  "purchase_date": "2022-08-01",
+  "product": "Vacuum cleaner",
+  "price": "132"
+}, {
+  "client": "Angela Hubbard",
+  "purchase_date": "2022-08-09",
+  "product": "Phone",
+  "price": "220"
+}, {
+  "client": "Patricia Hudson",
+  "purchase_date": "2022-08-25",
+  "product": "coffee machine",
+  "price": "1796"
+}, {
+  "client": "Patricia Hudson",
+  "purchase_date": "2022-08-11",
+  "product": "Microwave oven",
+  "price": "364"
+}, {
+  "client": "Cindy Oconnor",
+  "purchase_date": "2022-08-04",
+  "product": "Phone",
+  "price": "577"
+}, {
+  "client": "Cindy Oconnor",
+  "purchase_date": "2022-08-26",
+  "product": "Microwave oven",
+  "price": "268"
+}, {
+  "client": "Cindy Oconnor",
+  "purchase_date": "2022-08-22",
+  "product": "Laptop",
+  "price": "2900"
+}, {
+  "client": "Olivia Gomez",
+  "purchase_date": "2022-08-11",
+  "product": "Laptop",
+  "price": "1126"
+}, {
+  "client": "Olivia Gomez",
+  "purchase_date": "2022-08-19",
+  "product": "coffee machine",
+  "price": "174"
+}, {
+  "client": "Roy Fox",
+  "purchase_date": "2022-08-10",
+  "product": "Phone",
+  "price": "893"
+}, {
+  "client": "Jesus Smith",
+  "purchase_date": "2022-08-26",
+  "product": "Phone",
+  "price": "1163"
+}, {
+  "client": "Jesus Smith",
+  "purchase_date": "2022-08-14",
+  "product": "Vacuum cleaner",
+  "price": "695"
+}, {
+  "client": "Matthew Guerrero",
+  "purchase_date": "2022-08-05",
+  "product": "TV",
+  "price": "2114"
+}, {
+  "client": "Samantha Floyd",
+  "purchase_date": "2022-08-30",
+  "product": "Laptop",
+  "price": "1898"
+}, {
+  "client": "Samantha Floyd",
+  "purchase_date": "2022-08-24",
+  "product": "TV",
+  "price": "2442"
+}, {
+  "client": "Samantha Floyd",
+  "purchase_date": "2022-08-27",
+  "product": "Vacuum cleaner",
+  "price": "760"
+}, {
+  "client": "Anthony Johnson",
+  "purchase_date": "2022-08-03",
+  "product": "coffee machine",
+  "price": "1637"
+}, {
+  "client": "Anthony Johnson",
+  "purchase_date": "2022-08-14",
+  "product": "Microwave oven",
+  "price": "579"
+}, {
+  "client": "Tonya Cooper",
+  "purchase_date": "2022-08-06",
+  "product": "Laptop",
+  "price": "2668"
+}, {
+  "client": "Tonya Cooper",
+  "purchase_date": "2022-08-21",
+  "product": "TV",
+  "price": "1849"
+}, {
+  "client": "Nicholas Barrett",
+  "purchase_date": "2022-08-17",
+  "product": "Microwave oven",
+  "price": "156"
+}, {
+  "client": "Michael Torres",
+  "purchase_date": "2022-08-10",
+  "product": "Vacuum cleaner",
+  "price": "352"
+}, {
+  "client": "Michael Torres",
+  "purchase_date": "2022-08-14",
+  "product": "Phone",
+  "price": "177"
+}, {
+  "client": "Michael Torres",
+  "purchase_date": "2022-08-09",
+  "product": "coffee machine",
+  "price": "2397"
+}, {
+  "client": "Joshua Oconnor",
+  "purchase_date": "2022-08-23",
+  "product": "Phone",
+  "price": "539"
+}, {
+  "client": "Joshua Oconnor",
+  "purchase_date": "2022-08-28",
+  "product": "Vacuum cleaner",
+  "price": "225"
+}, {
+  "client": "Andrew Perez",
+  "purchase_date": "2022-08-13",
+  "product": "coffee machine",
+  "price": "4714"
+}, {
+  "client": "Andrea Brown",
+  "purchase_date": "2022-08-18",
+  "product": "Vacuum cleaner",
+  "price": "117"
+}, {
+  "client": "Andrea Brown",
+  "purchase_date": "2022-08-20",
+  "product": "Vacuum cleaner",
+  "price": "731"
+}, {
+  "client": "Jenny Stafford",
+  "purchase_date": "2022-08-17",
+  "product": "TV",
+  "price": "1241"
+}, {
+  "client": "Jeffrey Howard",
+  "purchase_date": "2022-08-21",
+  "product": "coffee machine",
+  "price": "1693"
+}, {
+  "client": "Gary Hatfield",
+  "purchase_date": "2022-08-01",
+  "product": "coffee machine",
+  "price": "4171"
+}, {
+  "client": "Gary Hatfield",
+  "purchase_date": "2022-08-19",
+  "product": "coffee machine",
+  "price": "2141"
+}, {
+  "client": "Janet Ortiz",
+  "purchase_date": "2022-08-25",
+  "product": "Phone",
+  "price": "529"
+}, {
+  "client": "Joseph Fitzgerald",
+  "purchase_date": "2022-08-15",
+  "product": "TV",
+  "price": "1673"
+}, {
+  "client": "Joseph Fitzgerald",
+  "purchase_date": "2022-08-15",
+  "product": "Laptop",
+  "price": "3423"
+}, {
+  "client": "Joseph Fitzgerald",
+  "purchase_date": "2022-08-26",
+  "product": "Microwave oven",
+  "price": "558"
+}, {
+  "client": "Jennifer Myers",
+  "purchase_date": "2022-08-30",
+  "product": "Laptop",
+  "price": "2304"
+}, {
+  "client": "Morgan Hernandez",
+  "purchase_date": "2022-08-09",
+  "product": "coffee machine",
+  "price": "3333"
+}, {
+  "client": "Morgan Hernandez",
+  "purchase_date": "2022-08-29",
+  "product": "Phone",
+  "price": "1045"
+}, {
+  "client": "Morgan Hernandez",
+  "purchase_date": "2022-08-11",
+  "product": "Phone",
+  "price": "1398"
+}, {
+  "client": "Alex Drake",
+  "purchase_date": "2022-08-01",
+  "product": "TV",
+  "price": "1508"
+}, {
+  "client": "Alex Drake",
+  "purchase_date": "2022-08-25",
+  "product": "Phone",
+  "price": "565"
+}, {
+  "client": "Richard Sutton",
+  "purchase_date": "2022-08-25",
+  "product": "Vacuum cleaner",
+  "price": "526"
+}, {
+  "client": "Richard Sutton",
+  "purchase_date": "2022-08-23",
+  "product": "coffee machine",
+  "price": "3288"
+}, {
+  "client": "Richard Sutton",
+  "purchase_date": "2022-08-15",
+  "product": "TV",
+  "price": "1693"
+}, {
+  "client": "Blake Pennington",
+  "purchase_date": "2022-08-19",
+  "product": "Microwave oven",
+  "price": "164"
+}, {
+  "client": "Blake Pennington",
+  "purchase_date": "2022-08-11",
+  "product": "coffee machine",
+  "price": "2380"
+}, {
+  "client": "Lance King",
+  "purchase_date": "2022-08-05",
+  "product": "Vacuum cleaner",
+  "price": "614"
+}, {
+  "client": "Lance King",
+  "purchase_date": "2022-08-19",
+  "product": "TV",
+  "price": "666"
+}, {
+  "client": "Lance King",
+  "purchase_date": "2022-08-01",
+  "product": "Phone",
+  "price": "889"
+}, {
+  "client": "Amanda Davis",
+  "purchase_date": "2022-08-22",
+  "product": "coffee machine",
+  "price": "1007"
+}, {
+  "client": "Chris Young",
+  "purchase_date": "2022-08-30",
+  "product": "TV",
+  "price": "1144"
+}, {
+  "client": "Chris Young",
+  "purchase_date": "2022-08-13",
+  "product": "TV",
+  "price": "1144"
+}, {
+  "client": "Chris Young",
+  "purchase_date": "2022-08-09",
+  "product": "Laptop",
+  "price": "3103"
+}, {
+  "client": "Nicolas Sullivan",
+  "purchase_date": "2022-08-20",
+  "product": "coffee machine",
+  "price": "1264"
+}, {
+  "client": "Nicolas Sullivan",
+  "purchase_date": "2022-08-28",
+  "product": "Laptop",
+  "price": "2155"
+}, {
+  "client": "Nicolas Sullivan",
+  "purchase_date": "2022-08-02",
+  "product": "Phone",
+  "price": "1197"
+}, {
+  "client": "Johnathan Long",
+  "purchase_date": "2022-08-30",
+  "product": "Laptop",
+  "price": "1048"
+}, {
+  "client": "Steven Pierce",
+  "purchase_date": "2022-08-24",
+  "product": "coffee machine",
+  "price": "482"
+}, {
+  "client": "Steven Pierce",
+  "purchase_date": "2022-08-27",
+  "product": "Microwave oven",
+  "price": "122"
+}, {
+  "client": "Steven Pierce",
+  "purchase_date": "2022-08-24",
+  "product": "Microwave oven",
+  "price": "453"
+}, {
+  "client": "Patricia Duncan",
+  "purchase_date": "2022-08-26",
+  "product": "Laptop",
+  "price": "1911"
+}, {
+  "client": "Patricia Duncan",
+  "purchase_date": "2022-08-03",
+  "product": "Microwave oven",
+  "price": "516"
+}, {
+  "client": "Patricia Duncan",
+  "purchase_date": "2022-08-06",
+  "product": "TV",
+  "price": "1646"
+}, {
+  "client": "Michael Bryant",
+  "purchase_date": "2022-08-11",
+  "product": "Laptop",
+  "price": "1568"
+}, {
+  "client": "Michael Bryant",
+  "purchase_date": "2022-08-26",
+  "product": "coffee machine",
+  "price": "2179"
+}, {
+  "client": "Jennifer Crawford",
+  "purchase_date": "2022-08-15",
+  "product": "Microwave oven",
+  "price": "578"
+}, {
+  "client": "Jennifer Crawford",
+  "purchase_date": "2022-08-18",
+  "product": "Laptop",
+  "price": "2338"
+}, {
+  "client": "Patrick Johnson",
+  "purchase_date": "2022-08-19",
+  "product": "TV",
+  "price": "1795"
+}, {
+  "client": "Lauren Parsons",
+  "purchase_date": "2022-08-02",
+  "product": "coffee machine",
+  "price": "4296"
+}, {
+  "client": "Michael Clark",
+  "purchase_date": "2022-08-21",
+  "product": "TV",
+  "price": "895"
+}, {
+  "client": "Michael Clark",
+  "purchase_date": "2022-08-08",
+  "product": "Vacuum cleaner",
+  "price": "705"
+}, {
+  "client": "Gina Good",
+  "purchase_date": "2022-08-23",
+  "product": "Microwave oven",
+  "price": "181"
+}, {
+  "client": "Gina Good",
+  "purchase_date": "2022-08-05",
+  "product": "Phone",
+  "price": "1491"
+}, {
+  "client": "Gina Good",
+  "purchase_date": "2022-08-02",
+  "product": "Vacuum cleaner",
+  "price": "649"
+}, {
+  "client": "Warren Middleton",
+  "purchase_date": "2022-08-25",
+  "product": "TV",
+  "price": "2164"
+}, {
+  "client": "Warren Middleton",
+  "purchase_date": "2022-08-14",
+  "product": "TV",
+  "price": "712"
+}, {
+  "client": "Michelle Maldonado",
+  "purchase_date": "2022-08-11",
+  "product": "Microwave oven",
+  "price": "331"
+}, {
+  "client": "Michelle Maldonado",
+  "purchase_date": "2022-08-12",
+  "product": "Vacuum cleaner",
+  "price": "604"
+}, {
+  "client": "Paul Smith",
+  "purchase_date": "2022-08-06",
+  "product": "Phone",
+  "price": "196"
+}, {
+  "client": "Krystal Farley",
+  "purchase_date": "2022-08-29",
+  "product": "TV",
+  "price": "1191"
+}, {
+  "client": "Mario Morris",
+  "purchase_date": "2022-08-21",
+  "product": "TV",
+  "price": "1347"
+}, {
+  "client": "Charles Williams",
+  "purchase_date": "2022-08-20",
+  "product": "Vacuum cleaner",
+  "price": "133"
+}, {
+  "client": "Charles Williams",
+  "purchase_date": "2022-08-12",
+  "product": "coffee machine",
+  "price": "1477"
+}, {
+  "client": "Chelsea Dunn",
+  "purchase_date": "2022-08-12",
+  "product": "TV",
+  "price": "1402"
+}, {
+  "client": "Chelsea Dunn",
+  "purchase_date": "2022-08-20",
+  "product": "Microwave oven",
+  "price": "561"
+}, {
+  "client": "Chelsea Dunn",
+  "purchase_date": "2022-08-19",
+  "product": "Phone",
+  "price": "784"
+}, {
+  "client": "Travis Thompson",
+  "purchase_date": "2022-08-01",
+  "product": "Vacuum cleaner",
+  "price": "265"
+}, {
+  "client": "Travis Thompson",
+  "purchase_date": "2022-08-07",
+  "product": "Vacuum cleaner",
+  "price": "350"
+}, {
+  "client": "Travis Thompson",
+  "purchase_date": "2022-08-12",
+  "product": "Vacuum cleaner",
+  "price": "145"
+}, {
+  "client": "Jeffrey Ewing",
+  "purchase_date": "2022-08-13",
+  "product": "TV",
+  "price": "862"
+}, {
+  "client": "Jeffrey Ewing",
+  "purchase_date": "2022-08-21",
+  "product": "Microwave oven",
+  "price": "453"
+}, {
+  "client": "Wanda Lee",
+  "purchase_date": "2022-08-24",
+  "product": "Vacuum cleaner",
+  "price": "647"
+}, {
+  "client": "Wanda Lee",
+  "purchase_date": "2022-08-16",
+  "product": "coffee machine",
+  "price": "4163"
+}, {
+  "client": "Kristine Ward",
+  "purchase_date": "2022-08-21",
+  "product": "Phone",
+  "price": "206"
+}, {
+  "client": "Kristine Ward",
+  "purchase_date": "2022-08-27",
+  "product": "Microwave oven",
+  "price": "149"
+}, {
+  "client": "Kristine Ward",
+  "purchase_date": "2022-08-12",
+  "product": "TV",
+  "price": "1183"
+}, {
+  "client": "Regina Perez",
+  "purchase_date": "2022-08-30",
+  "product": "TV",
+  "price": "815"
+}, {
+  "client": "Regina Perez",
+  "purchase_date": "2022-08-26",
+  "product": "Microwave oven",
+  "price": "420"
+}, {
+  "client": "Regina Perez",
+  "purchase_date": "2022-08-01",
+  "product": "Phone",
+  "price": "225"
+}, {
+  "client": "Joseph Pugh",
+  "purchase_date": "2022-08-18",
+  "product": "Phone",
+  "price": "471"
+}, {
+  "client": "Joseph Pugh",
+  "purchase_date": "2022-08-06",
+  "product": "coffee machine",
+  "price": "1303"
+}, {
+  "client": "Joseph Pugh",
+  "purchase_date": "2022-08-21",
+  "product": "Laptop",
+  "price": "1151"
+}, {
+  "client": "Lynn Burton",
+  "purchase_date": "2022-08-01",
+  "product": "Microwave oven",
+  "price": "268"
+}, {
+  "client": "Tony House",
+  "purchase_date": "2022-08-02",
+  "product": "coffee machine",
+  "price": "3361"
+}, {
+  "client": "Tony House",
+  "purchase_date": "2022-08-21",
+  "product": "Laptop",
+  "price": "1484"
+}, {
+  "client": "Tony House",
+  "purchase_date": "2022-08-06",
+  "product": "Phone",
+  "price": "822"
+}, {
+  "client": "Jerome Manning",
+  "purchase_date": "2022-08-06",
+  "product": "Phone",
+  "price": "612"
+}, {
+  "client": "Jordan Roman",
+  "purchase_date": "2022-08-29",
+  "product": "Vacuum cleaner",
+  "price": "452"
+}, {
+  "client": "Jordan Roman",
+  "purchase_date": "2022-08-13",
+  "product": "Microwave oven",
+  "price": "170"
+}, {
+  "client": "Jordan Roman",
+  "purchase_date": "2022-08-01",
+  "product": "Microwave oven",
+  "price": "494"
+}, {
+  "client": "Tina Martin",
+  "purchase_date": "2022-08-22",
+  "product": "Microwave oven",
+  "price": "102"
+}, {
+  "client": "Tanya Walters",
+  "purchase_date": "2022-08-05",
+  "product": "coffee machine",
+  "price": "1508"
+}, {
+  "client": "Tanya Walters",
+  "purchase_date": "2022-08-27",
+  "product": "TV",
+  "price": "551"
+}, {
+  "client": "Tanya Walters",
+  "purchase_date": "2022-08-01",
+  "product": "Phone",
+  "price": "1194"
+}, {
+  "client": "Jasmine Rowe",
+  "purchase_date": "2022-08-26",
+  "product": "Laptop",
+  "price": "3259"
+}, {
+  "client": "Jean Beard",
+  "purchase_date": "2022-08-14",
+  "product": "TV",
+  "price": "1357"
+}, {
+  "client": "Jean Beard",
+  "purchase_date": "2022-08-22",
+  "product": "Microwave oven",
+  "price": "567"
+}, {
+  "client": "Jean Beard",
+  "purchase_date": "2022-08-30",
+  "product": "Phone",
+  "price": "657"
+}, {
+  "client": "John Gallegos",
+  "purchase_date": "2022-08-07",
+  "product": "Phone",
+  "price": "1194"
+}, {
+  "client": "Michael Murphy",
+  "purchase_date": "2022-08-14",
+  "product": "TV",
+  "price": "765"
+}, {
+  "client": "Michael Murphy",
+  "purchase_date": "2022-08-12",
+  "product": "Microwave oven",
+  "price": "437"
+}, {
+  "client": "Michael Murphy",
+  "purchase_date": "2022-08-29",
+  "product": "TV",
+  "price": "1383"
+}, {
+  "client": "John Boyd",
+  "purchase_date": "2022-08-13",
+  "product": "Laptop",
+  "price": "2429"
+}, {
+  "client": "John Boyd",
+  "purchase_date": "2022-08-08",
+  "product": "Laptop",
+  "price": "2117"
+}, {
+  "client": "John Boyd",
+  "purchase_date": "2022-08-13",
+  "product": "coffee machine",
+  "price": "4041"
+}, {
+  "client": "Connor Rodriguez",
+  "purchase_date": "2022-08-12",
+  "product": "Phone",
+  "price": "1228"
+}, {
+  "client": "Connor Rodriguez",
+  "purchase_date": "2022-08-20",
+  "product": "Microwave oven",
+  "price": "111"
+}, {
+  "client": "Amanda Hebert",
+  "purchase_date": "2022-08-02",
+  "product": "Laptop",
+  "price": "1631"
+}, {
+  "client": "Amanda Hebert",
+  "purchase_date": "2022-08-28",
+  "product": "Microwave oven",
+  "price": "264"
+}, {
+  "client": "Amanda Hebert",
+  "purchase_date": "2022-08-04",
+  "product": "Vacuum cleaner",
+  "price": "721"
+}, {
+  "client": "Victoria Hubbard",
+  "purchase_date": "2022-08-01",
+  "product": "coffee machine",
+  "price": "3314"
+}, {
+  "client": "Michael Larson",
+  "purchase_date": "2022-08-14",
+  "product": "coffee machine",
+  "price": "3320"
+}, {
+  "client": "Michael Larson",
+  "purchase_date": "2022-08-15",
+  "product": "TV",
+  "price": "1960"
+}, {
+  "client": "Michael Larson",
+  "purchase_date": "2022-08-06",
+  "product": "Microwave oven",
+  "price": "336"
+}, {
+  "client": "Eric Brown",
+  "purchase_date": "2022-08-14",
+  "product": "Phone",
+  "price": "1121"
+}, {
+  "client": "Cesar Castillo",
+  "purchase_date": "2022-08-28",
+  "product": "Microwave oven",
+  "price": "570"
+}, {
+  "client": "Pamela Williams",
+  "purchase_date": "2022-08-30",
+  "product": "Microwave oven",
+  "price": "157"
+}, {
+  "client": "Pamela Williams",
+  "purchase_date": "2022-08-05",
+  "product": "Phone",
+  "price": "857"
+}, {
+  "client": "Amanda Peters",
+  "purchase_date": "2022-08-17",
+  "product": "Vacuum cleaner",
+  "price": "725"
+}, {
+  "client": "Amanda Peters",
+  "purchase_date": "2022-08-29",
+  "product": "TV",
+  "price": "900"
+}, {
+  "client": "Lynn Herring",
+  "purchase_date": "2022-08-19",
+  "product": "Laptop",
+  "price": "3463"
+}, {
+  "client": "Lynn Herring",
+  "purchase_date": "2022-08-13",
+  "product": "Phone",
+  "price": "756"
+}, {
+  "client": "Robin Harris",
+  "purchase_date": "2022-08-02",
+  "product": "Microwave oven",
+  "price": "320"
+}, {
+  "client": "Robin Harris",
+  "purchase_date": "2022-08-09",
+  "product": "coffee machine",
+  "price": "3463"
+}, {
+  "client": "Michael King",
+  "purchase_date": "2022-08-12",
+  "product": "coffee machine",
+  "price": "1805"
+}, {
+  "client": "Michael King",
+  "purchase_date": "2022-08-04",
+  "product": "Laptop",
+  "price": "1041"
+}, {
+  "client": "Michael King",
+  "purchase_date": "2022-08-06",
+  "product": "Microwave oven",
+  "price": "282"
+}, {
+  "client": "Steven Tran",
+  "purchase_date": "2022-08-15",
+  "product": "Microwave oven",
+  "price": "303"
+}, {
+  "client": "Steven Tran",
+  "purchase_date": "2022-08-23",
+  "product": "TV",
+  "price": "1814"
+}, {
+  "client": "Steven Tran",
+  "purchase_date": "2022-08-25",
+  "product": "coffee machine",
+  "price": "737"
+}, {
+  "client": "Kevin May",
+  "purchase_date": "2022-08-18",
+  "product": "Microwave oven",
+  "price": "471"
+}, {
+  "client": "Kevin May",
+  "purchase_date": "2022-08-05",
+  "product": "Laptop",
+  "price": "1193"
+}, {
+  "client": "Kevin May",
+  "purchase_date": "2022-08-08",
+  "product": "Laptop",
+  "price": "1173"
+}, {
+  "client": "Matthew Bryant",
+  "purchase_date": "2022-08-29",
+  "product": "Vacuum cleaner",
+  "price": "445"
+}, {
+  "client": "Jimmy Moore",
+  "purchase_date": "2022-08-22",
+  "product": "coffee machine",
+  "price": "2845"
+}, {
+  "client": "Jimmy Moore",
+  "purchase_date": "2022-08-30",
+  "product": "TV",
+  "price": "2143"
+}, {
+  "client": "Matthew Alvarez",
+  "purchase_date": "2022-08-11",
+  "product": "Phone",
+  "price": "474"
+}, {
+  "client": "Matthew Alvarez",
+  "purchase_date": "2022-08-11",
+  "product": "coffee machine",
+  "price": "4208"
+}, {
+  "client": "Matthew Alvarez",
+  "purchase_date": "2022-08-05",
+  "product": "Microwave oven",
+  "price": "455"
+}, {
+  "client": "Kimberly Hoover",
+  "purchase_date": "2022-08-10",
+  "product": "coffee machine",
+  "price": "4650"
+}, {
+  "client": "Kimberly Hoover",
+  "purchase_date": "2022-08-12",
+  "product": "Laptop",
+  "price": "2050"
+}, {
+  "client": "Kimberly Hoover",
+  "purchase_date": "2022-08-17",
+  "product": "Vacuum cleaner",
+  "price": "562"
+}, {
+  "client": "Robert Miller",
+  "purchase_date": "2022-08-27",
+  "product": "Vacuum cleaner",
+  "price": "496"
+}, {
+  "client": "Robert Miller",
+  "purchase_date": "2022-08-05",
+  "product": "TV",
+  "price": "1899"
+}, {
+  "client": "Harold Hayes",
+  "purchase_date": "2022-08-20",
+  "product": "TV",
+  "price": "1694"
+}, {
+  "client": "Barbara Stewart",
+  "purchase_date": "2022-08-20",
+  "product": "Microwave oven",
+  "price": "429"
+}, {
+  "client": "Cheryl Gutierrez",
+  "purchase_date": "2022-08-13",
+  "product": "coffee machine",
+  "price": "1481"
+}, {
+  "client": "Cheryl Gutierrez",
+  "purchase_date": "2022-08-02",
+  "product": "TV",
+  "price": "2124"
+}, {
+  "client": "Russell Jones",
+  "purchase_date": "2022-08-11",
+  "product": "coffee machine",
+  "price": "4037"
+}, {
+  "client": "Russell Jones",
+  "purchase_date": "2022-08-15",
+  "product": "TV",
+  "price": "1884"
+}, {
+  "client": "Henry Winters",
+  "purchase_date": "2022-08-09",
+  "product": "Microwave oven",
+  "price": "456"
+}, {
+  "client": "Henry Winters",
+  "purchase_date": "2022-08-26",
+  "product": "coffee machine",
+  "price": "4085"
+}, {
+  "client": "Megan Hart",
+  "purchase_date": "2022-08-18",
+  "product": "Laptop",
+  "price": "2800"
+}, {
+  "client": "Cheryl Hughes",
+  "purchase_date": "2022-08-21",
+  "product": "TV",
+  "price": "2194"
+}, {
+  "client": "Caleb Bell",
+  "purchase_date": "2022-08-20",
+  "product": "Microwave oven",
+  "price": "309"
+}, {
+  "client": "Luis Valdez",
+  "purchase_date": "2022-08-13",
+  "product": "Vacuum cleaner",
+  "price": "780"
+}, {
+  "client": "Jesus Spencer",
+  "purchase_date": "2022-08-05",
+  "product": "TV",
+  "price": "1703"
+}, {
+  "client": "Jesus Spencer",
+  "purchase_date": "2022-08-29",
+  "product": "Vacuum cleaner",
+  "price": "255"
+}, {
+  "client": "Kathleen Miller",
+  "purchase_date": "2022-08-30",
+  "product": "Microwave oven",
+  "price": "127"
+}, {
+  "client": "Kathleen Miller",
+  "purchase_date": "2022-08-21",
+  "product": "Vacuum cleaner",
+  "price": "168"
+}, {
+  "client": "Kathleen Miller",
+  "purchase_date": "2022-08-11",
+  "product": "Microwave oven",
+  "price": "307"
+}, {
+  "client": "Scott Gibbs",
+  "purchase_date": "2022-08-15",
+  "product": "Microwave oven",
+  "price": "547"
+}, {
+  "client": "Ronald Cook",
+  "purchase_date": "2022-08-09",
+  "product": "Microwave oven",
+  "price": "152"
+}, {
+  "client": "Ronald Cook",
+  "purchase_date": "2022-08-18",
+  "product": "Microwave oven",
+  "price": "351"
+}, {
+  "client": "Ronald Cook",
+  "purchase_date": "2022-08-16",
+  "product": "coffee machine",
+  "price": "3328"
+}, {
+  "client": "Kaitlin Johnson",
+  "purchase_date": "2022-08-18",
+  "product": "Laptop",
+  "price": "1441"
+}, {
+  "client": "Kaitlin Johnson",
+  "purchase_date": "2022-08-10",
+  "product": "Phone",
+  "price": "476"
+}, {
+  "client": "Lori Mitchell",
+  "purchase_date": "2022-08-03",
+  "product": "Vacuum cleaner",
+  "price": "150"
+}, {
+  "client": "James Moore",
+  "purchase_date": "2022-08-14",
+  "product": "Vacuum cleaner",
+  "price": "659"
+}, {
+  "client": "James Moore",
+  "purchase_date": "2022-08-09",
+  "product": "Microwave oven",
+  "price": "147"
+}, {
+  "client": "James Moore",
+  "purchase_date": "2022-08-27",
+  "product": "Vacuum cleaner",
+  "price": "315"
+}, {
+  "client": "Margaret Sanchez",
+  "purchase_date": "2022-08-26",
+  "product": "Laptop",
+  "price": "1972"
+}, {
+  "client": "Margaret Sanchez",
+  "purchase_date": "2022-08-22",
+  "product": "TV",
+  "price": "783"
+}, {
+  "client": "Douglas Jackson",
+  "purchase_date": "2022-08-07",
+  "product": "Microwave oven",
+  "price": "386"
+}, {
+  "client": "Alexis Conrad",
+  "purchase_date": "2022-08-25",
+  "product": "Microwave oven",
+  "price": "458"
+}, {
+  "client": "Alexis Conrad",
+  "purchase_date": "2022-08-23",
+  "product": "Microwave oven",
+  "price": "351"
+}, {
+  "client": "Alexis Conrad",
+  "purchase_date": "2022-08-30",
+  "product": "coffee machine",
+  "price": "976"
+}, {
+  "client": "James Solis",
+  "purchase_date": "2022-08-28",
+  "product": "Microwave oven",
+  "price": "277"
+}, {
+  "client": "James Solis",
+  "purchase_date": "2022-08-22",
+  "product": "Phone",
+  "price": "349"
+}, {
+  "client": "James Solis",
+  "purchase_date": "2022-08-08",
+  "product": "TV",
+  "price": "994"
+}, {
+  "client": "Ashley Carr",
+  "purchase_date": "2022-08-08",
+  "product": "Phone",
+  "price": "712"
+}, {
+  "client": "Ashley Carr",
+  "purchase_date": "2022-08-12",
+  "product": "TV",
+  "price": "1515"
+}, {
+  "client": "Ashley Carr",
+  "purchase_date": "2022-08-11",
+  "product": "Microwave oven",
+  "price": "574"
+}, {
+  "client": "David Taylor",
+  "purchase_date": "2022-08-08",
+  "product": "Microwave oven",
+  "price": "316"
+}, {
+  "client": "David Taylor",
+  "purchase_date": "2022-08-13",
+  "product": "coffee machine",
+  "price": "3110"
+}, {
+  "client": "Kim Jones",
+  "purchase_date": "2022-08-30",
+  "product": "Laptop",
+  "price": "1679"
+}, {
+  "client": "Matthew Church",
+  "purchase_date": "2022-08-22",
+  "product": "coffee machine",
+  "price": "4041"
+}, {
+  "client": "Jeffrey Ruiz",
+  "purchase_date": "2022-08-20",
+  "product": "Phone",
+  "price": "937"
+}, {
+  "client": "Jeffrey Ruiz",
+  "purchase_date": "2022-08-13",
+  "product": "Laptop",
+  "price": "989"
+}, {
+  "client": "James Brewer",
+  "purchase_date": "2022-08-16",
+  "product": "Microwave oven",
+  "price": "544"
+}, {
+  "client": "James Brewer",
+  "purchase_date": "2022-08-23",
+  "product": "Laptop",
+  "price": "3187"
+}, {
+  "client": "Kevin Houston",
+  "purchase_date": "2022-08-14",
+  "product": "coffee machine",
+  "price": "3038"
+}, {
+  "client": "Kevin Houston",
+  "purchase_date": "2022-08-13",
+  "product": "Phone",
+  "price": "885"
+}, {
+  "client": "Robert Maynard",
+  "purchase_date": "2022-08-29",
+  "product": "TV",
+  "price": "1482"
+}, {
+  "client": "Robert Maynard",
+  "purchase_date": "2022-08-15",
+  "product": "Phone",
+  "price": "397"
+}, {
+  "client": "Shawn Williams",
+  "purchase_date": "2022-08-24",
+  "product": "Phone",
+  "price": "648"
+}, {
+  "client": "Alyssa Fisher",
+  "purchase_date": "2022-08-08",
+  "product": "Phone",
+  "price": "1172"
+}, {
+  "client": "Lindsey Martin",
+  "purchase_date": "2022-08-17",
+  "product": "Vacuum cleaner",
+  "price": "555"
+}, {
+  "client": "Lindsey Martin",
+  "purchase_date": "2022-08-27",
+  "product": "Vacuum cleaner",
+  "price": "659"
+}, {
+  "client": "Lindsey Martin",
+  "purchase_date": "2022-08-22",
+  "product": "Microwave oven",
+  "price": "212"
+}, {
+  "client": "Jason Lawrence",
+  "purchase_date": "2022-08-16",
+  "product": "Microwave oven",
+  "price": "259"
+}, {
+  "client": "Jason Lawrence",
+  "purchase_date": "2022-08-17",
+  "product": "Laptop",
+  "price": "1788"
+}, {
+  "client": "Jason Lawrence",
+  "purchase_date": "2022-08-03",
+  "product": "coffee machine",
+  "price": "113"
+}, {
+  "client": "Mark Miranda",
+  "purchase_date": "2022-08-29",
+  "product": "Phone",
+  "price": "957"
+}, {
+  "client": "Mark Miranda",
+  "purchase_date": "2022-08-02",
+  "product": "Laptop",
+  "price": "2266"
+}, {
+  "client": "Mark Miranda",
+  "purchase_date": "2022-08-02",
+  "product": "Microwave oven",
+  "price": "494"
+}, {
+  "client": "Nicole Gonzalez",
+  "purchase_date": "2022-08-07",
+  "product": "TV",
+  "price": "1039"
+}, {
+  "client": "Nicole Gonzalez",
+  "purchase_date": "2022-08-06",
+  "product": "coffee machine",
+  "price": "2777"
+}, {
+  "client": "Nicole Gonzalez",
+  "purchase_date": "2022-08-26",
+  "product": "TV",
+  "price": "870"
+}, {
+  "client": "Cassandra Silva",
+  "purchase_date": "2022-08-02",
+  "product": "TV",
+  "price": "978"
+}, {
+  "client": "Cassandra Silva",
+  "purchase_date": "2022-08-18",
+  "product": "TV",
+  "price": "1283"
+}, {
+  "client": "Michael Adams",
+  "purchase_date": "2022-08-20",
+  "product": "TV",
+  "price": "2182"
+}, {
+  "client": "Hannah Anderson",
+  "purchase_date": "2022-08-15",
+  "product": "TV",
+  "price": "2017"
+}, {
+  "client": "Carol Jordan",
+  "purchase_date": "2022-08-29",
+  "product": "TV",
+  "price": "1565"
+}, {
+  "client": "Billy Page",
+  "purchase_date": "2022-08-06",
+  "product": "TV",
+  "price": "1599"
+}, {
+  "client": "Billy Page",
+  "purchase_date": "2022-08-30",
+  "product": "Laptop",
+  "price": "1429"
+}, {
+  "client": "Billy Page",
+  "purchase_date": "2022-08-16",
+  "product": "Vacuum cleaner",
+  "price": "471"
+}, {
+  "client": "Caroline Clark",
+  "purchase_date": "2022-08-25",
+  "product": "Laptop",
+  "price": "2061"
+}, {
+  "client": "Caroline Clark",
+  "purchase_date": "2022-08-09",
+  "product": "TV",
+  "price": "1761"
+}, {
+  "client": "Caroline Clark",
+  "purchase_date": "2022-08-12",
+  "product": "TV",
+  "price": "1693"
+}, {
+  "client": "Joseph Fuentes",
+  "purchase_date": "2022-08-21",
+  "product": "Phone",
+  "price": "1079"
+}, {
+  "client": "Joseph Fuentes",
+  "purchase_date": "2022-08-17",
+  "product": "Laptop",
+  "price": "2940"
+}, {
+  "client": "Frances Wilson",
+  "purchase_date": "2022-08-04",
+  "product": "TV",
+  "price": "1963"
+}, {
+  "client": "Frances Wilson",
+  "purchase_date": "2022-08-23",
+  "product": "Phone",
+  "price": "199"
+}, {
+  "client": "Sarah Ortiz",
+  "purchase_date": "2022-08-22",
+  "product": "Microwave oven",
+  "price": "495"
+}, {
+  "client": "Stephanie Peterson",
+  "purchase_date": "2022-08-19",
+  "product": "Vacuum cleaner",
+  "price": "292"
+}, {
+  "client": "Evelyn Neal",
+  "purchase_date": "2022-08-17",
+  "product": "Laptop",
+  "price": "2225"
+}, {
+  "client": "Evelyn Neal",
+  "purchase_date": "2022-08-18",
+  "product": "Microwave oven",
+  "price": "161"
+}, {
+  "client": "Spencer Riddle",
+  "purchase_date": "2022-08-29",
+  "product": "TV",
+  "price": "1542"
+}, {
+  "client": "Spencer Riddle",
+  "purchase_date": "2022-08-06",
+  "product": "Vacuum cleaner",
+  "price": "561"
+}, {
+  "client": "Spencer Riddle",
+  "purchase_date": "2022-08-11",
+  "product": "Vacuum cleaner",
+  "price": "640"
+}, {
+  "client": "Travis Hunt",
+  "purchase_date": "2022-08-13",
+  "product": "Vacuum cleaner",
+  "price": "340"
+}, {
+  "client": "Brittany Smith",
+  "purchase_date": "2022-08-08",
+  "product": "Laptop",
+  "price": "2358"
+}, {
+  "client": "Brittany Smith",
+  "purchase_date": "2022-08-25",
+  "product": "Phone",
+  "price": "1134"
+}, {
+  "client": "Michele Walls",
+  "purchase_date": "2022-08-24",
+  "product": "TV",
+  "price": "1415"
+}, {
+  "client": "Michele Walls",
+  "purchase_date": "2022-08-13",
+  "product": "TV",
+  "price": "1631"
+}, {
+  "client": "Michele Walls",
+  "purchase_date": "2022-08-14",
+  "product": "Vacuum cleaner",
+  "price": "309"
+}, {
+  "client": "Melissa Holland",
+  "purchase_date": "2022-08-16",
+  "product": "Phone",
+  "price": "1127"
+}, {
+  "client": "Matthew Holden",
+  "purchase_date": "2022-08-10",
+  "product": "Laptop",
+  "price": "2305"
+}, {
+  "client": "Michael Mendez",
+  "purchase_date": "2022-08-20",
+  "product": "coffee machine",
+  "price": "4082"
+}, {
+  "client": "Michael Mendez",
+  "purchase_date": "2022-08-22",
+  "product": "Laptop",
+  "price": "2639"
+}, {
+  "client": "Ruth Castillo",
+  "purchase_date": "2022-08-21",
+  "product": "Phone",
+  "price": "1210"
+}, {
+  "client": "Kristina Wilcox",
+  "purchase_date": "2022-08-11",
+  "product": "Phone",
+  "price": "225"
+}, {
+  "client": "Scott Mccall",
+  "purchase_date": "2022-08-22",
+  "product": "Vacuum cleaner",
+  "price": "479"
+}, {
+  "client": "Ronald Atkinson",
+  "purchase_date": "2022-08-07",
+  "product": "Vacuum cleaner",
+  "price": "588"
+}, {
+  "client": "Kelly Franklin",
+  "purchase_date": "2022-08-26",
+  "product": "Vacuum cleaner",
+  "price": "128"
+}, {
+  "client": "Michael Sullivan",
+  "purchase_date": "2022-08-07",
+  "product": "coffee machine",
+  "price": "4367"
+}, {
+  "client": "Michael Sullivan",
+  "purchase_date": "2022-08-06",
+  "product": "coffee machine",
+  "price": "2787"
+}, {
+  "client": "Chad Price",
+  "purchase_date": "2022-08-23",
+  "product": "Laptop",
+  "price": "3094"
+}, {
+  "client": "Chad Price",
+  "purchase_date": "2022-08-29",
+  "product": "Microwave oven",
+  "price": "352"
+}, {
+  "client": "Chad Price",
+  "purchase_date": "2022-08-30",
+  "product": "coffee machine",
+  "price": "4775"
+}, {
+  "client": "Krystal Hendricks",
+  "purchase_date": "2022-08-02",
+  "product": "Microwave oven",
+  "price": "325"
+}, {
+  "client": "Angie Chapman",
+  "purchase_date": "2022-08-27",
+  "product": "Vacuum cleaner",
+  "price": "698"
+}, {
+  "client": "Jonathon Gibson",
+  "purchase_date": "2022-08-07",
+  "product": "Microwave oven",
+  "price": "474"
+}, {
+  "client": "Jonathon Gibson",
+  "purchase_date": "2022-08-02",
+  "product": "TV",
+  "price": "589"
+}, {
+  "client": "Brian Whitaker",
+  "purchase_date": "2022-08-28",
+  "product": "Laptop",
+  "price": "2315"
+}, {
+  "client": "Caitlin Phelps",
+  "purchase_date": "2022-08-28",
+  "product": "coffee machine",
+  "price": "993"
+}, {
+  "client": "Briana Jones",
+  "purchase_date": "2022-08-29",
+  "product": "coffee machine",
+  "price": "2446"
+}, {
+  "client": "Briana Jones",
+  "purchase_date": "2022-08-16",
+  "product": "coffee machine",
+  "price": "2870"
+}, {
+  "client": "Briana Jones",
+  "purchase_date": "2022-08-06",
+  "product": "coffee machine",
+  "price": "1674"
+}, {
+  "client": "James Benton",
+  "purchase_date": "2022-08-12",
+  "product": "Microwave oven",
+  "price": "531"
+}, {
+  "client": "James Benton",
+  "purchase_date": "2022-08-13",
+  "product": "coffee machine",
+  "price": "3689"
+}, {
+  "client": "Deborah Hall",
+  "purchase_date": "2022-08-28",
+  "product": "coffee machine",
+  "price": "2701"
+}, {
+  "client": "Deborah Hall",
+  "purchase_date": "2022-08-05",
+  "product": "Vacuum cleaner",
+  "price": "148"
+}, {
+  "client": "Deborah Hall",
+  "purchase_date": "2022-08-25",
+  "product": "Laptop",
+  "price": "964"
+}, {
+  "client": "Charles Cain",
+  "purchase_date": "2022-08-23",
+  "product": "Vacuum cleaner",
+  "price": "555"
+}, {
+  "client": "Sean Morrow",
+  "purchase_date": "2022-08-01",
+  "product": "Phone",
+  "price": "245"
+}, {
+  "client": "Justin Smith",
+  "purchase_date": "2022-08-28",
+  "product": "Laptop",
+  "price": "858"
+}, {
+  "client": "Justin Smith",
+  "purchase_date": "2022-08-19",
+  "product": "Vacuum cleaner",
+  "price": "679"
+}, {
+  "client": "Justin Smith",
+  "purchase_date": "2022-08-07",
+  "product": "Vacuum cleaner",
+  "price": "633"
+}, {
+  "client": "Grace Davis",
+  "purchase_date": "2022-08-30",
+  "product": "Microwave oven",
+  "price": "429"
+}, {
+  "client": "Darrell Roberson",
+  "purchase_date": "2022-08-18",
+  "product": "Phone",
+  "price": "928"
+}, {
+  "client": "Darrell Roberson",
+  "purchase_date": "2022-08-03",
+  "product": "Microwave oven",
+  "price": "133"
+}, {
+  "client": "Darrell Roberson",
+  "purchase_date": "2022-08-24",
+  "product": "Microwave oven",
+  "price": "596"
+}, {
+  "client": "Danny Simpson",
+  "purchase_date": "2022-08-14",
+  "product": "TV",
+  "price": "917"
+}, {
+  "client": "Danny Simpson",
+  "purchase_date": "2022-08-12",
+  "product": "Microwave oven",
+  "price": "487"
+}, {
+  "client": "Danny Simpson",
+  "purchase_date": "2022-08-24",
+  "product": "Phone",
+  "price": "321"
+}, {
+  "client": "Kenneth Perez",
+  "purchase_date": "2022-08-28",
+  "product": "Microwave oven",
+  "price": "595"
+}, {
+  "client": "Timothy Newton",
+  "purchase_date": "2022-08-09",
+  "product": "Laptop",
+  "price": "2407"
+}, {
+  "client": "Timothy Newton",
+  "purchase_date": "2022-08-15",
+  "product": "TV",
+  "price": "1715"
+}, {
+  "client": "Richard Morales",
+  "purchase_date": "2022-08-13",
+  "product": "Laptop",
+  "price": "2067"
+}, {
+  "client": "Richard Morales",
+  "purchase_date": "2022-08-30",
+  "product": "coffee machine",
+  "price": "4251"
+}, {
+  "client": "Kaitlin Douglas",
+  "purchase_date": "2022-08-09",
+  "product": "Laptop",
+  "price": "2917"
+}, {
+  "client": "Kaitlin Douglas",
+  "purchase_date": "2022-08-05",
+  "product": "TV",
+  "price": "590"
+}, {
+  "client": "Thomas Reynolds",
+  "purchase_date": "2022-08-19",
+  "product": "coffee machine",
+  "price": "4885"
+}, {
+  "client": "Thomas Reynolds",
+  "purchase_date": "2022-08-17",
+  "product": "Vacuum cleaner",
+  "price": "144"
+}, {
+  "client": "James Miranda",
+  "purchase_date": "2022-08-13",
+  "product": "Vacuum cleaner",
+  "price": "407"
+}, {
+  "client": "James Miranda",
+  "purchase_date": "2022-08-04",
+  "product": "coffee machine",
+  "price": "298"
+}, {
+  "client": "James Miranda",
+  "purchase_date": "2022-08-22",
+  "product": "Vacuum cleaner",
+  "price": "701"
+}, {
+  "client": "Gregory Sanchez",
+  "purchase_date": "2022-08-04",
+  "product": "Laptop",
+  "price": "627"
+}, {
+  "client": "Tyler Porter",
+  "purchase_date": "2022-08-21",
+  "product": "Laptop",
+  "price": "630"
+}, {
+  "client": "Tyler Porter",
+  "purchase_date": "2022-08-13",
+  "product": "Phone",
+  "price": "691"
+}, {
+  "client": "Tyler Porter",
+  "purchase_date": "2022-08-10",
+  "product": "TV",
+  "price": "1204"
+}, {
+  "client": "James Price",
+  "purchase_date": "2022-08-21",
+  "product": "Microwave oven",
+  "price": "511"
+}, {
+  "client": "James Price",
+  "purchase_date": "2022-08-18",
+  "product": "Laptop",
+  "price": "2718"
+}, {
+  "client": "Lisa Lowe",
+  "purchase_date": "2022-08-01",
+  "product": "Microwave oven",
+  "price": "382"
+}, {
+  "client": "Lisa Lowe",
+  "purchase_date": "2022-08-27",
+  "product": "Laptop",
+  "price": "2529"
+}, {
+  "client": "Anna Stewart",
+  "purchase_date": "2022-08-12",
+  "product": "Phone",
+  "price": "431"
+}, {
+  "client": "Anna Stewart",
+  "purchase_date": "2022-08-18",
+  "product": "TV",
+  "price": "1756"
+}, {
+  "client": "Crystal Ponce",
+  "purchase_date": "2022-08-19",
+  "product": "TV",
+  "price": "1015"
+}, {
+  "client": "Crystal Ponce",
+  "purchase_date": "2022-08-03",
+  "product": "TV",
+  "price": "1566"
+}, {
+  "client": "Crystal Ponce",
+  "purchase_date": "2022-08-16",
+  "product": "Microwave oven",
+  "price": "165"
+}, {
+  "client": "Helen Hall",
+  "purchase_date": "2022-08-18",
+  "product": "Phone",
+  "price": "348"
+}, {
+  "client": "James Smith",
+  "purchase_date": "2022-08-22",
+  "product": "Laptop",
+  "price": "3341"
+}, {
+  "client": "Larry Donovan",
+  "purchase_date": "2022-08-20",
+  "product": "Vacuum cleaner",
+  "price": "286"
+}, {
+  "client": "Patrick Gonzalez",
+  "purchase_date": "2022-08-09",
+  "product": "Phone",
+  "price": "473"
+}, {
+  "client": "Patrick Gonzalez",
+  "purchase_date": "2022-08-18",
+  "product": "coffee machine",
+  "price": "2955"
+}, {
+  "client": "Patrick Gonzalez",
+  "purchase_date": "2022-08-15",
+  "product": "Laptop",
+  "price": "1385"
+}, {
+  "client": "Steven Mathis",
+  "purchase_date": "2022-08-18",
+  "product": "Laptop",
+  "price": "1633"
+}, {
+  "client": "Steven Mathis",
+  "purchase_date": "2022-08-03",
+  "product": "coffee machine",
+  "price": "103"
+}, {
+  "client": "Christopher Young",
+  "purchase_date": "2022-08-02",
+  "product": "Phone",
+  "price": "812"
+}, {
+  "client": "Christopher Young",
+  "purchase_date": "2022-08-01",
+  "product": "TV",
+  "price": "1752"
+}, {
+  "client": "Janet Aguirre",
+  "purchase_date": "2022-08-23",
+  "product": "TV",
+  "price": "840"
+}, {
+  "client": "Janet Aguirre",
+  "purchase_date": "2022-08-17",
+  "product": "Phone",
+  "price": "562"
+}, {
+  "client": "James Cannon",
+  "purchase_date": "2022-08-14",
+  "product": "Vacuum cleaner",
+  "price": "171"
+}, {
+  "client": "James Cannon",
+  "purchase_date": "2022-08-27",
+  "product": "Microwave oven",
+  "price": "372"
+}, {
+  "client": "Debra Aguilar",
+  "purchase_date": "2022-08-19",
+  "product": "TV",
+  "price": "664"
+}, {
+  "client": "Debra Aguilar",
+  "purchase_date": "2022-08-06",
+  "product": "Vacuum cleaner",
+  "price": "411"
+}, {
+  "client": "Debra Aguilar",
+  "purchase_date": "2022-08-21",
+  "product": "Phone",
+  "price": "643"
+}, {
+  "client": "Samantha Byrd",
+  "purchase_date": "2022-08-02",
+  "product": "coffee machine",
+  "price": "2448"
+}, {
+  "client": "Samantha Byrd",
+  "purchase_date": "2022-08-01",
+  "product": "TV",
+  "price": "2211"
+}, {
+  "client": "Samantha Byrd",
+  "purchase_date": "2022-08-03",
+  "product": "coffee machine",
+  "price": "2306"
+}, {
+  "client": "Linda Davis",
+  "purchase_date": "2022-08-21",
+  "product": "Phone",
+  "price": "1271"
+}, {
+  "client": "Linda Davis",
+  "purchase_date": "2022-08-26",
+  "product": "Phone",
+  "price": "249"
+}, {
+  "client": "Michelle Nelson",
+  "purchase_date": "2022-08-05",
+  "product": "coffee machine",
+  "price": "4332"
+}, {
+  "client": "Lisa Hopkins",
+  "purchase_date": "2022-08-26",
+  "product": "Microwave oven",
+  "price": "128"
+}, {
+  "client": "Lisa Hopkins",
+  "purchase_date": "2022-08-09",
+  "product": "Vacuum cleaner",
+  "price": "508"
+}, {
+  "client": "Kenneth Keller",
+  "purchase_date": "2022-08-30",
+  "product": "Phone",
+  "price": "790"
+}, {
+  "client": "Jordan Martinez",
+  "purchase_date": "2022-08-14",
+  "product": "Vacuum cleaner",
+  "price": "205"
+}, {
+  "client": "Jordan Martinez",
+  "purchase_date": "2022-08-17",
+  "product": "Phone",
+  "price": "497"
+}, {
+  "client": "Jordan Martinez",
+  "purchase_date": "2022-08-23",
+  "product": "TV",
+  "price": "973"
+}, {
+  "client": "Thomas Martinez",
+  "purchase_date": "2022-08-08",
+  "product": "Vacuum cleaner",
+  "price": "111"
+}, {
+  "client": "Thomas Martinez",
+  "purchase_date": "2022-08-04",
+  "product": "TV",
+  "price": "1131"
+}, {
+  "client": "Thomas Martinez",
+  "purchase_date": "2022-08-15",
+  "product": "Laptop",
+  "price": "1027"
+}, {
+  "client": "Jason Bennett",
+  "purchase_date": "2022-08-04",
+  "product": "Microwave oven",
+  "price": "311"
+}, {
+  "client": "Jason Bennett",
+  "purchase_date": "2022-08-16",
+  "product": "Microwave oven",
+  "price": "226"
+}, {
+  "client": "Gabriela Short",
+  "purchase_date": "2022-08-14",
+  "product": "Phone",
+  "price": "977"
+}, {
+  "client": "Gabriela Short",
+  "purchase_date": "2022-08-30",
+  "product": "Vacuum cleaner",
+  "price": "794"
+}, {
+  "client": "Allison Cummings",
+  "purchase_date": "2022-08-12",
+  "product": "coffee machine",
+  "price": "4394"
+}, {
+  "client": "Jared Duran",
+  "purchase_date": "2022-08-08",
+  "product": "Laptop",
+  "price": "1119"
+}, {
+  "client": "Jeffrey King",
+  "purchase_date": "2022-08-18",
+  "product": "Laptop",
+  "price": "1263"
+}, {
+  "client": "Jeffrey King",
+  "purchase_date": "2022-08-01",
+  "product": "Phone",
+  "price": "1264"
+}, {
+  "client": "Darren Campbell",
+  "purchase_date": "2022-08-14",
+  "product": "Laptop",
+  "price": "3456"
+}, {
+  "client": "Linda Noble",
+  "purchase_date": "2022-08-05",
+  "product": "Laptop",
+  "price": "2793"
+}, {
+  "client": "Kelly Miller",
+  "purchase_date": "2022-08-17",
+  "product": "coffee machine",
+  "price": "2131"
+}, {
+  "client": "Joseph Nunez",
+  "purchase_date": "2022-08-24",
+  "product": "coffee machine",
+  "price": "272"
+}, {
+  "client": "Joseph Nunez",
+  "purchase_date": "2022-08-02",
+  "product": "Vacuum cleaner",
+  "price": "284"
+}, {
+  "client": "Brittney Johnson",
+  "purchase_date": "2022-08-17",
+  "product": "Laptop",
+  "price": "2060"
+}, {
+  "client": "Brittney Johnson",
+  "purchase_date": "2022-08-13",
+  "product": "Vacuum cleaner",
+  "price": "297"
+}, {
+  "client": "Brittney Johnson",
+  "purchase_date": "2022-08-16",
+  "product": "Microwave oven",
+  "price": "369"
+}, {
+  "client": "Michael Jenkins",
+  "purchase_date": "2022-08-01",
+  "product": "TV",
+  "price": "1591"
+}, {
+  "client": "Kelly Ramsey",
+  "purchase_date": "2022-08-15",
+  "product": "coffee machine",
+  "price": "3342"
+}, {
+  "client": "Thomas Marquez",
+  "purchase_date": "2022-08-22",
+  "product": "Vacuum cleaner",
+  "price": "433"
+}, {
+  "client": "Thomas Marquez",
+  "purchase_date": "2022-08-24",
+  "product": "Vacuum cleaner",
+  "price": "344"
+}, {
+  "client": "Stephanie Duncan",
+  "purchase_date": "2022-08-24",
+  "product": "Microwave oven",
+  "price": "224"
+}, {
+  "client": "Jeremy Sanchez",
+  "purchase_date": "2022-08-28",
+  "product": "TV",
+  "price": "2059"
+}, {
+  "client": "Michael Walker",
+  "purchase_date": "2022-08-23",
+  "product": "Laptop",
+  "price": "2345"
+}, {
+  "client": "Michael Walker",
+  "purchase_date": "2022-08-20",
+  "product": "coffee machine",
+  "price": "1201"
+}, {
+  "client": "Michael Walker",
+  "purchase_date": "2022-08-10",
+  "product": "coffee machine",
+  "price": "4275"
+}, {
+  "client": "Matthew Mcneil",
+  "purchase_date": "2022-08-12",
+  "product": "Phone",
+  "price": "883"
+}, {
+  "client": "Gina Jennings",
+  "purchase_date": "2022-08-23",
+  "product": "Microwave oven",
+  "price": "428"
+}, {
+  "client": "Gina Jennings",
+  "purchase_date": "2022-08-01",
+  "product": "Phone",
+  "price": "423"
+}, {
+  "client": "Justin Kelly",
+  "purchase_date": "2022-08-20",
+  "product": "coffee machine",
+  "price": "1735"
+}, {
+  "client": "Justin Kelly",
+  "purchase_date": "2022-08-16",
+  "product": "Vacuum cleaner",
+  "price": "427"
+}, {
+  "client": "Justin Kelly",
+  "purchase_date": "2022-08-05",
+  "product": "Phone",
+  "price": "1051"
+}, {
+  "client": "Jeffrey Alvarado",
+  "purchase_date": "2022-08-12",
+  "product": "Phone",
+  "price": "829"
+}, {
+  "client": "Jeffrey Alvarado",
+  "purchase_date": "2022-08-13",
+  "product": "coffee machine",
+  "price": "3218"
+}, {
+  "client": "Jeffrey Alvarado",
+  "purchase_date": "2022-08-23",
+  "product": "Microwave oven",
+  "price": "305"
+}, {
+  "client": "Julie Thomas",
+  "purchase_date": "2022-08-27",
+  "product": "coffee machine",
+  "price": "4726"
+}, {
+  "client": "Julie Thomas",
+  "purchase_date": "2022-08-14",
+  "product": "Laptop",
+  "price": "1273"
+}, {
+  "client": "Nicole Finley",
+  "purchase_date": "2022-08-06",
+  "product": "Phone",
+  "price": "1203"
+}, {
+  "client": "John Fernandez",
+  "purchase_date": "2022-08-25",
+  "product": "Microwave oven",
+  "price": "364"
+}, {
+  "client": "Michele Smith",
+  "purchase_date": "2022-08-14",
+  "product": "Phone",
+  "price": "680"
+}, {
+  "client": "Michele Smith",
+  "purchase_date": "2022-08-30",
+  "product": "Phone",
+  "price": "1084"
+}, {
+  "client": "Michele Smith",
+  "purchase_date": "2022-08-02",
+  "product": "coffee machine",
+  "price": "4414"
+}, {
+  "client": "Scott Richards",
+  "purchase_date": "2022-08-23",
+  "product": "Phone",
+  "price": "1089"
+}, {
+  "client": "Katherine James",
+  "purchase_date": "2022-08-28",
+  "product": "Microwave oven",
+  "price": "152"
+}, {
+  "client": "Angela Cordova",
+  "purchase_date": "2022-08-28",
+  "product": "TV",
+  "price": "2190"
+}, {
+  "client": "Angela Cordova",
+  "purchase_date": "2022-08-20",
+  "product": "Laptop",
+  "price": "1257"
+}, {
+  "client": "Patrick Saunders",
+  "purchase_date": "2022-08-20",
+  "product": "coffee machine",
+  "price": "3052"
+}, {
+  "client": "Walter Johnson",
+  "purchase_date": "2022-08-22",
+  "product": "TV",
+  "price": "1881"
+}, {
+  "client": "Walter Johnson",
+  "purchase_date": "2022-08-20",
+  "product": "TV",
+  "price": "542"
+}, {
+  "client": "Kayla Hernandez",
+  "purchase_date": "2022-08-13",
+  "product": "Phone",
+  "price": "633"
+}, {
+  "client": "Kevin Ramirez",
+  "purchase_date": "2022-08-28",
+  "product": "coffee machine",
+  "price": "3075"
+}, {
+  "client": "Kevin Ramirez",
+  "purchase_date": "2022-08-19",
+  "product": "Phone",
+  "price": "329"
+}, {
+  "client": "Kevin Ramirez",
+  "purchase_date": "2022-08-23",
+  "product": "Vacuum cleaner",
+  "price": "198"
+}, {
+  "client": "Gina Holloway",
+  "purchase_date": "2022-08-18",
+  "product": "TV",
+  "price": "1716"
+}, {
+  "client": "Brandon Moore",
+  "purchase_date": "2022-08-28",
+  "product": "Phone",
+  "price": "577"
+}, {
+  "client": "Brandon Moore",
+  "purchase_date": "2022-08-11",
+  "product": "Vacuum cleaner",
+  "price": "281"
+}, {
+  "client": "Kristy Brown",
+  "purchase_date": "2022-08-22",
+  "product": "Laptop",
+  "price": "2532"
+}, {
+  "client": "Jeffrey Beck",
+  "purchase_date": "2022-08-17",
+  "product": "Microwave oven",
+  "price": "402"
+}, {
+  "client": "Pamela Mcclure",
+  "purchase_date": "2022-08-30",
+  "product": "Microwave oven",
+  "price": "421"
+}, {
+  "client": "Pamela Mcclure",
+  "purchase_date": "2022-08-02",
+  "product": "Laptop",
+  "price": "511"
+}, {
+  "client": "Pamela Mcclure",
+  "purchase_date": "2022-08-02",
+  "product": "Vacuum cleaner",
+  "price": "698"
+}, {
+  "client": "Jeffrey Johnson",
+  "purchase_date": "2022-08-14",
+  "product": "Microwave oven",
+  "price": "143"
+}, {
+  "client": "James Cooper",
+  "purchase_date": "2022-08-30",
+  "product": "Phone",
+  "price": "1446"
+}, {
+  "client": "James Cooper",
+  "purchase_date": "2022-08-23",
+  "product": "coffee machine",
+  "price": "1648"
+}, {
+  "client": "Kimberly Morgan",
+  "purchase_date": "2022-08-22",
+  "product": "Laptop",
+  "price": "1794"
+}, {
+  "client": "Kimberly Morgan",
+  "purchase_date": "2022-08-16",
+  "product": "coffee machine",
+  "price": "2347"
+}, {
+  "client": "Candice Simpson",
+  "purchase_date": "2022-08-11",
+  "product": "Microwave oven",
+  "price": "567"
+}, {
+  "client": "Candice Simpson",
+  "purchase_date": "2022-08-03",
+  "product": "Phone",
+  "price": "1472"
+}, {
+  "client": "Candice Simpson",
+  "purchase_date": "2022-08-29",
+  "product": "Vacuum cleaner",
+  "price": "243"
+}, {
+  "client": "Zachary Austin",
+  "purchase_date": "2022-08-13",
+  "product": "Microwave oven",
+  "price": "465"
+}, {
+  "client": "Zachary Austin",
+  "purchase_date": "2022-08-14",
+  "product": "Microwave oven",
+  "price": "329"
+}, {
+  "client": "Kelly Callahan",
+  "purchase_date": "2022-08-14",
+  "product": "Microwave oven",
+  "price": "572"
+}, {
+  "client": "Karina Meyer",
+  "purchase_date": "2022-08-19",
+  "product": "coffee machine",
+  "price": "1020"
+}, {
+  "client": "Whitney Steele",
+  "purchase_date": "2022-08-10",
+  "product": "coffee machine",
+  "price": "4050"
+}, {
+  "client": "Hannah Adams",
+  "purchase_date": "2022-08-26",
+  "product": "Phone",
+  "price": "715"
+}, {
+  "client": "Hannah Adams",
+  "purchase_date": "2022-08-12",
+  "product": "TV",
+  "price": "1801"
+}, {
+  "client": "Hannah Adams",
+  "purchase_date": "2022-08-18",
+  "product": "Microwave oven",
+  "price": "522"
+}, {
+  "client": "Ebony Wilson",
+  "purchase_date": "2022-08-13",
+  "product": "TV",
+  "price": "1335"
+}, {
+  "client": "Veronica Hunt",
+  "purchase_date": "2022-08-21",
+  "product": "TV",
+  "price": "1141"
+}, {
+  "client": "Veronica Hunt",
+  "purchase_date": "2022-08-23",
+  "product": "Laptop",
+  "price": "848"
+}, {
+  "client": "Veronica Hunt",
+  "purchase_date": "2022-08-19",
+  "product": "Vacuum cleaner",
+  "price": "739"
+}, {
+  "client": "Jerry Perry",
+  "purchase_date": "2022-08-14",
+  "product": "TV",
+  "price": "928"
+}, {
+  "client": "Russell Little",
+  "purchase_date": "2022-08-24",
+  "product": "Laptop",
+  "price": "2794"
+}, {
+  "client": "Russell Little",
+  "purchase_date": "2022-08-14",
+  "product": "coffee machine",
+  "price": "2534"
+}, {
+  "client": "Russell Little",
+  "purchase_date": "2022-08-02",
+  "product": "Vacuum cleaner",
+  "price": "639"
+}, {
+  "client": "Seth Stanley",
+  "purchase_date": "2022-08-18",
+  "product": "Microwave oven",
+  "price": "174"
+}, {
+  "client": "Seth Stanley",
+  "purchase_date": "2022-08-07",
+  "product": "Laptop",
+  "price": "3138"
+}, {
+  "client": "Seth Stanley",
+  "purchase_date": "2022-08-06",
+  "product": "Microwave oven",
+  "price": "589"
+}, {
+  "client": "Michael Atkinson",
+  "purchase_date": "2022-08-09",
+  "product": "Phone",
+  "price": "698"
+}, {
+  "client": "Michael Atkinson",
+  "purchase_date": "2022-08-22",
+  "product": "Laptop",
+  "price": "2151"
+}, {
+  "client": "Michael Atkinson",
+  "purchase_date": "2022-08-21",
+  "product": "TV",
+  "price": "2271"
+}, {
+  "client": "Crystal Morton",
+  "purchase_date": "2022-08-27",
+  "product": "Laptop",
+  "price": "1076"
+}, {
+  "client": "Crystal Morton",
+  "purchase_date": "2022-08-04",
+  "product": "Microwave oven",
+  "price": "168"
+}, {
+  "client": "David Parker",
+  "purchase_date": "2022-08-27",
+  "product": "TV",
+  "price": "2016"
+}, {
+  "client": "David Parker",
+  "purchase_date": "2022-08-11",
+  "product": "Phone",
+  "price": "447"
+}, {
+  "client": "John Zuniga",
+  "purchase_date": "2022-08-15",
+  "product": "Laptop",
+  "price": "1539"
+}, {
+  "client": "John Zuniga",
+  "purchase_date": "2022-08-16",
+  "product": "Phone",
+  "price": "1143"
+}, {
+  "client": "Charles Arnold",
+  "purchase_date": "2022-08-25",
+  "product": "Vacuum cleaner",
+  "price": "472"
+}, {
+  "client": "Charles Arnold",
+  "purchase_date": "2022-08-16",
+  "product": "Vacuum cleaner",
+  "price": "635"
+}, {
+  "client": "Alexander Hall",
+  "purchase_date": "2022-08-30",
+  "product": "Microwave oven",
+  "price": "137"
+}, {
+  "client": "Alexander Hall",
+  "purchase_date": "2022-08-21",
+  "product": "Laptop",
+  "price": "1088"
+}, {
+  "client": "Alexander Hall",
+  "purchase_date": "2022-08-11",
+  "product": "Vacuum cleaner",
+  "price": "603"
+}, {
+  "client": "Jennifer Stephenson",
+  "purchase_date": "2022-08-05",
+  "product": "TV",
+  "price": "793"
+}, {
+  "client": "Lauren Jackson",
+  "purchase_date": "2022-08-04",
+  "product": "coffee machine",
+  "price": "4730"
+}, {
+  "client": "Lauren Jackson",
+  "purchase_date": "2022-08-17",
+  "product": "coffee machine",
+  "price": "657"
+}, {
+  "client": "Lauren Jackson",
+  "purchase_date": "2022-08-10",
+  "product": "Phone",
+  "price": "1307"
+}, {
+  "client": "William Evans",
+  "purchase_date": "2022-08-13",
+  "product": "coffee machine",
+  "price": "4007"
+}, {
+  "client": "William Evans",
+  "purchase_date": "2022-08-11",
+  "product": "Microwave oven",
+  "price": "517"
+}, {
+  "client": "Rebecca Harmon",
+  "purchase_date": "2022-08-08",
+  "product": "Microwave oven",
+  "price": "276"
+}, {
+  "client": "Rebecca Harmon",
+  "purchase_date": "2022-08-24",
+  "product": "Microwave oven",
+  "price": "119"
+}, {
+  "client": "Rebecca Harmon",
+  "purchase_date": "2022-08-11",
+  "product": "Vacuum cleaner",
+  "price": "454"
+}, {
+  "client": "Christopher Wagner",
+  "purchase_date": "2022-08-16",
+  "product": "Microwave oven",
+  "price": "139"
+}, {
+  "client": "Brady Smith",
+  "purchase_date": "2022-08-08",
+  "product": "Vacuum cleaner",
+  "price": "713"
+}, {
+  "client": "Brady Smith",
+  "purchase_date": "2022-08-17",
+  "product": "Microwave oven",
+  "price": "112"
+}, {
+  "client": "Stephanie Moore",
+  "purchase_date": "2022-08-12",
+  "product": "TV",
+  "price": "2430"
+}, {
+  "client": "Stephanie Moore",
+  "purchase_date": "2022-08-09",
+  "product": "Laptop",
+  "price": "1896"
+}, {
+  "client": "Daniel Williams",
+  "purchase_date": "2022-08-01",
+  "product": "Vacuum cleaner",
+  "price": "509"
+}, {
+  "client": "Daniel Williams",
+  "purchase_date": "2022-08-21",
+  "product": "coffee machine",
+  "price": "2034"
+}, {
+  "client": "Daniel Williams",
+  "purchase_date": "2022-08-24",
+  "product": "coffee machine",
+  "price": "4010"
+}, {
+  "client": "Kayla Jones",
+  "purchase_date": "2022-08-30",
+  "product": "coffee machine",
+  "price": "1416"
+}, {
+  "client": "Kayla Jones",
+  "purchase_date": "2022-08-24",
+  "product": "TV",
+  "price": "2058"
+}, {
+  "client": "Jerry Strickland",
+  "purchase_date": "2022-08-30",
+  "product": "Microwave oven",
+  "price": "437"
+}, {
+  "client": "Jerry Strickland",
+  "purchase_date": "2022-08-23",
+  "product": "Laptop",
+  "price": "2078"
+}, {
+  "client": "Jerry Strickland",
+  "purchase_date": "2022-08-16",
+  "product": "Phone",
+  "price": "1338"
+}, {
+  "client": "Brandy Sims",
+  "purchase_date": "2022-08-15",
+  "product": "TV",
+  "price": "1948"
+}, {
+  "client": "Alexis Hernandez",
+  "purchase_date": "2022-08-11",
+  "product": "Microwave oven",
+  "price": "326"
+}, {
+  "client": "Holly Stuart",
+  "purchase_date": "2022-08-25",
+  "product": "Vacuum cleaner",
+  "price": "661"
+}, {
+  "client": "Holly Stuart",
+  "purchase_date": "2022-08-17",
+  "product": "coffee machine",
+  "price": "1280"
+}, {
+  "client": "Melissa Anderson",
+  "purchase_date": "2022-08-12",
+  "product": "Vacuum cleaner",
+  "price": "322"
+}, {
+  "client": "Melissa Anderson",
+  "purchase_date": "2022-08-08",
+  "product": "Vacuum cleaner",
+  "price": "382"
+}, {
+  "client": "Melissa Anderson",
+  "purchase_date": "2022-08-08",
+  "product": "Laptop",
+  "price": "1544"
+}, {
+  "client": "Nicholas Bass",
+  "purchase_date": "2022-08-20",
+  "product": "Vacuum cleaner",
+  "price": "323"
+}, {
+  "client": "Nicholas Bass",
+  "purchase_date": "2022-08-21",
+  "product": "Phone",
+  "price": "1427"
+}, {
+  "client": "James Wells",
+  "purchase_date": "2022-08-05",
+  "product": "Phone",
+  "price": "648"
+}, {
+  "client": "John Phillips",
+  "purchase_date": "2022-08-18",
+  "product": "Microwave oven",
+  "price": "188"
+}, {
+  "client": "John Phillips",
+  "purchase_date": "2022-08-04",
+  "product": "coffee machine",
+  "price": "4986"
+}, {
+  "client": "Susan Bailey",
+  "purchase_date": "2022-08-23",
+  "product": "Vacuum cleaner",
+  "price": "289"
+}, {
+  "client": "Susan Bailey",
+  "purchase_date": "2022-08-12",
+  "product": "Laptop",
+  "price": "2958"
+}, {
+  "client": "Susan Bailey",
+  "purchase_date": "2022-08-23",
+  "product": "Microwave oven",
+  "price": "227"
+}, {
+  "client": "Kathryn Craig",
+  "purchase_date": "2022-08-13",
+  "product": "Laptop",
+  "price": "1703"
+}, {
+  "client": "Kathryn Craig",
+  "purchase_date": "2022-08-07",
+  "product": "Phone",
+  "price": "1198"
+}, {
+  "client": "Kathryn Craig",
+  "purchase_date": "2022-08-11",
+  "product": "Phone",
+  "price": "982"
+}, {
+  "client": "Kelly Mccullough",
+  "purchase_date": "2022-08-27",
+  "product": "Laptop",
+  "price": "2973"
+}, {
+  "client": "Katie Mckenzie",
+  "purchase_date": "2022-08-03",
+  "product": "Microwave oven",
+  "price": "334"
+}, {
+  "client": "Glenn Hamilton",
+  "purchase_date": "2022-08-23",
+  "product": "Microwave oven",
+  "price": "247"
+}, {
+  "client": "Glenn Hamilton",
+  "purchase_date": "2022-08-27",
+  "product": "Vacuum cleaner",
+  "price": "509"
+}, {
+  "client": "Matthew Williams",
+  "purchase_date": "2022-08-02",
+  "product": "coffee machine",
+  "price": "3256"
+}, {
+  "client": "Matthew Williams",
+  "purchase_date": "2022-08-02",
+  "product": "TV",
+  "price": "2327"
+}, {
+  "client": "Tracy Ellis",
+  "purchase_date": "2022-08-20",
+  "product": "Laptop",
+  "price": "1590"
+}, {
+  "client": "Tracy Ellis",
+  "purchase_date": "2022-08-15",
+  "product": "coffee machine",
+  "price": "4677"
+}, {
+  "client": "Dakota Garcia",
+  "purchase_date": "2022-08-14",
+  "product": "Microwave oven",
+  "price": "560"
+}, {
+  "client": "Dakota Garcia",
+  "purchase_date": "2022-08-08",
+  "product": "Vacuum cleaner",
+  "price": "463"
+}, {
+  "client": "Lawrence Hebert",
+  "purchase_date": "2022-08-04",
+  "product": "coffee machine",
+  "price": "4987"
+}, {
+  "client": "Lawrence Hebert",
+  "purchase_date": "2022-08-01",
+  "product": "Microwave oven",
+  "price": "220"
+}, {
+  "client": "Kevin Casey",
+  "purchase_date": "2022-08-19",
+  "product": "TV",
+  "price": "2170"
+}, {
+  "client": "Kevin Casey",
+  "purchase_date": "2022-08-25",
+  "product": "Vacuum cleaner",
+  "price": "211"
+}, {
+  "client": "Patricia Smith",
+  "purchase_date": "2022-08-06",
+  "product": "Phone",
+  "price": "755"
+}, {
+  "client": "Heather Clark",
+  "purchase_date": "2022-08-08",
+  "product": "Microwave oven",
+  "price": "587"
+}, {
+  "client": "Christina Lopez",
+  "purchase_date": "2022-08-09",
+  "product": "Laptop",
+  "price": "1435"
+}, {
+  "client": "Matthew Carr",
+  "purchase_date": "2022-08-24",
+  "product": "Phone",
+  "price": "447"
+}, {
+  "client": "Matthew Carr",
+  "purchase_date": "2022-08-07",
+  "product": "Microwave oven",
+  "price": "238"
+}, {
+  "client": "Matthew Carr",
+  "purchase_date": "2022-08-29",
+  "product": "TV",
+  "price": "779"
+}, {
+  "client": "Laurie Shepard",
+  "purchase_date": "2022-08-28",
+  "product": "Laptop",
+  "price": "1314"
+}, {
+  "client": "Laurie Shepard",
+  "purchase_date": "2022-08-12",
+  "product": "Microwave oven",
+  "price": "108"
+}, {
+  "client": "Laurie Shepard",
+  "purchase_date": "2022-08-16",
+  "product": "Microwave oven",
+  "price": "437"
+}, {
+  "client": "Susan Brown",
+  "purchase_date": "2022-08-03",
+  "product": "coffee machine",
+  "price": "2318"
+}, {
+  "client": "Amanda Holland",
+  "purchase_date": "2022-08-08",
+  "product": "Microwave oven",
+  "price": "477"
+}, {
+  "client": "Amanda Holland",
+  "purchase_date": "2022-08-05",
+  "product": "TV",
+  "price": "2331"
+}, {
+  "client": "Kathryn Barnes",
+  "purchase_date": "2022-08-22",
+  "product": "coffee machine",
+  "price": "4830"
+}, {
+  "client": "Michelle Morgan",
+  "purchase_date": "2022-08-16",
+  "product": "Laptop",
+  "price": "1095"
+}, {
+  "client": "Michelle Morgan",
+  "purchase_date": "2022-08-17",
+  "product": "Microwave oven",
+  "price": "121"
+}, {
+  "client": "Michelle Morgan",
+  "purchase_date": "2022-08-22",
+  "product": "Phone",
+  "price": "600"
+}, {
+  "client": "William Sandoval",
+  "purchase_date": "2022-08-22",
+  "product": "Vacuum cleaner",
+  "price": "404"
+}, {
+  "client": "William Lynch",
+  "purchase_date": "2022-08-21",
+  "product": "Laptop",
+  "price": "3158"
+}, {
+  "client": "William Lynch",
+  "purchase_date": "2022-08-22",
+  "product": "coffee machine",
+  "price": "2355"
+}, {
+  "client": "William Lynch",
+  "purchase_date": "2022-08-04",
+  "product": "coffee machine",
+  "price": "1646"
+}, {
+  "client": "Steven Miller",
+  "purchase_date": "2022-08-12",
+  "product": "Vacuum cleaner",
+  "price": "358"
+}, {
+  "client": "Steven Miller",
+  "purchase_date": "2022-08-10",
+  "product": "Microwave oven",
+  "price": "401"
+}, {
+  "client": "Caitlin Rodriguez",
+  "purchase_date": "2022-08-13",
+  "product": "Phone",
+  "price": "1281"
+}, {
+  "client": "Christopher Bradshaw",
+  "purchase_date": "2022-08-19",
+  "product": "Vacuum cleaner",
+  "price": "196"
+}, {
+  "client": "Ashley Ayala",
+  "purchase_date": "2022-08-05",
+  "product": "coffee machine",
+  "price": "3875"
+}, {
+  "client": "Nicole Olson",
+  "purchase_date": "2022-08-07",
+  "product": "Phone",
+  "price": "1248"
+}, {
+  "client": "Nicole Olson",
+  "purchase_date": "2022-08-09",
+  "product": "Laptop",
+  "price": "780"
+}, {
+  "client": "Nicole Olson",
+  "purchase_date": "2022-08-13",
+  "product": "Vacuum cleaner",
+  "price": "414"
+}, {
+  "client": "Richard Reid",
+  "purchase_date": "2022-08-18",
+  "product": "Vacuum cleaner",
+  "price": "473"
+}, {
+  "client": "Richard Reid",
+  "purchase_date": "2022-08-23",
+  "product": "Laptop",
+  "price": "3407"
+}, {
+  "client": "Kimberly Jones",
+  "purchase_date": "2022-08-10",
+  "product": "coffee machine",
+  "price": "384"
+}, {
+  "client": "Adrian Rowe",
+  "purchase_date": "2022-08-19",
+  "product": "Microwave oven",
+  "price": "489"
+}, {
+  "client": "Adrian Rowe",
+  "purchase_date": "2022-08-15",
+  "product": "Vacuum cleaner",
+  "price": "295"
+}, {
+  "client": "Adrian Rowe",
+  "purchase_date": "2022-08-03",
+  "product": "Laptop",
+  "price": "2103"
+}, {
+  "client": "Stacey Edwards",
+  "purchase_date": "2022-08-22",
+  "product": "TV",
+  "price": "1537"
+}, {
+  "client": "Stacey Edwards",
+  "purchase_date": "2022-08-06",
+  "product": "Vacuum cleaner",
+  "price": "749"
+}, {
+  "client": "Stacey Edwards",
+  "purchase_date": "2022-08-08",
+  "product": "TV",
+  "price": "912"
+}, {
+  "client": "Angela Myers",
+  "purchase_date": "2022-08-13",
+  "product": "TV",
+  "price": "1725"
+}, {
+  "client": "Victoria Williams",
+  "purchase_date": "2022-08-27",
+  "product": "TV",
+  "price": "2317"
+}, {
+  "client": "Victoria Williams",
+  "purchase_date": "2022-08-17",
+  "product": "Microwave oven",
+  "price": "208"
+}, {
+  "client": "Victoria Williams",
+  "purchase_date": "2022-08-16",
+  "product": "Laptop",
+  "price": "1394"
+}, {
+  "client": "Jennifer Castro",
+  "purchase_date": "2022-08-05",
+  "product": "TV",
+  "price": "1551"
+}, {
+  "client": "Jennifer Mcclain",
+  "purchase_date": "2022-08-17",
+  "product": "Microwave oven",
+  "price": "395"
+}, {
+  "client": "Victoria Brown",
+  "purchase_date": "2022-08-28",
+  "product": "Microwave oven",
+  "price": "302"
+}, {
+  "client": "Victoria Brown",
+  "purchase_date": "2022-08-22",
+  "product": "coffee machine",
+  "price": "2247"
+}, {
+  "client": "Victoria Brown",
+  "purchase_date": "2022-08-21",
+  "product": "Vacuum cleaner",
+  "price": "735"
+}, {
+  "client": "Bethany Clark",
+  "purchase_date": "2022-08-23",
+  "product": "Phone",
+  "price": "571"
+}, {
+  "client": "Bethany Clark",
+  "purchase_date": "2022-08-07",
+  "product": "coffee machine",
+  "price": "383"
+}, {
+  "client": "Sandra Ray",
+  "purchase_date": "2022-08-22",
+  "product": "Laptop",
+  "price": "2621"
+}, {
+  "client": "Sandra Ray",
+  "purchase_date": "2022-08-05",
+  "product": "Laptop",
+  "price": "528"
+}, {
+  "client": "Sandra Ray",
+  "purchase_date": "2022-08-16",
+  "product": "Laptop",
+  "price": "2358"
+}, {
+  "client": "Mark Williams",
+  "purchase_date": "2022-08-13",
+  "product": "coffee machine",
+  "price": "2475"
+}, {
+  "client": "Mark Williams",
+  "purchase_date": "2022-08-29",
+  "product": "Phone",
+  "price": "759"
+}, {
+  "client": "Teresa Wilson",
+  "purchase_date": "2022-08-20",
+  "product": "Phone",
+  "price": "1404"
+}, {
+  "client": "Teresa Wilson",
+  "purchase_date": "2022-08-08",
+  "product": "coffee machine",
+  "price": "823"
+}, {
+  "client": "Teresa Wilson",
+  "purchase_date": "2022-08-30",
+  "product": "Laptop",
+  "price": "2176"
+}, {
+  "client": "Patrick Morris",
+  "purchase_date": "2022-08-10",
+  "product": "TV",
+  "price": "1493"
+}, {
+  "client": "Kenneth Brown",
+  "purchase_date": "2022-08-21",
+  "product": "Microwave oven",
+  "price": "532"
+}, {
+  "client": "David Rivera",
+  "purchase_date": "2022-08-04",
+  "product": "coffee machine",
+  "price": "1292"
+}, {
+  "client": "David Rivera",
+  "purchase_date": "2022-08-11",
+  "product": "Microwave oven",
+  "price": "264"
+}, {
+  "client": "Benjamin Robinson",
+  "purchase_date": "2022-08-10",
+  "product": "Laptop",
+  "price": "1320"
+}, {
+  "client": "Benjamin Robinson",
+  "purchase_date": "2022-08-14",
+  "product": "Microwave oven",
+  "price": "457"
+}, {
+  "client": "Sandra Dixon",
+  "purchase_date": "2022-08-05",
+  "product": "Vacuum cleaner",
+  "price": "116"
+}, {
+  "client": "Sandra Dixon",
+  "purchase_date": "2022-08-10",
+  "product": "Vacuum cleaner",
+  "price": "158"
+}, {
+  "client": "Sandra Dixon",
+  "purchase_date": "2022-08-17",
+  "product": "coffee machine",
+  "price": "1370"
+}, {
+  "client": "Benjamin Moore",
+  "purchase_date": "2022-08-12",
+  "product": "Microwave oven",
+  "price": "350"
+}, {
+  "client": "Keith Beck",
+  "purchase_date": "2022-08-29",
+  "product": "Microwave oven",
+  "price": "176"
+}, {
+  "client": "Krystal Bell",
+  "purchase_date": "2022-08-04",
+  "product": "Phone",
+  "price": "583"
+}, {
+  "client": "Krystal Bell",
+  "purchase_date": "2022-08-15",
+  "product": "Laptop",
+  "price": "1070"
+}, {
+  "client": "Krystal Bell",
+  "purchase_date": "2022-08-30",
+  "product": "Microwave oven",
+  "price": "316"
+}, {
+  "client": "Monica Morales",
+  "purchase_date": "2022-08-25",
+  "product": "TV",
+  "price": "1112"
+}, {
+  "client": "Natasha Conway",
+  "purchase_date": "2022-08-22",
+  "product": "Microwave oven",
+  "price": "143"
+}, {
+  "client": "Natasha Conway",
+  "purchase_date": "2022-08-30",
+  "product": "Phone",
+  "price": "1475"
+}, {
+  "client": "Natasha Conway",
+  "purchase_date": "2022-08-16",
+  "product": "TV",
+  "price": "706"
+}, {
+  "client": "Gregory Waters",
+  "purchase_date": "2022-08-01",
+  "product": "Microwave oven",
+  "price": "121"
+}, {
+  "client": "Jose Wright",
+  "purchase_date": "2022-08-09",
+  "product": "Phone",
+  "price": "1349"
+}, {
+  "client": "Jose Wright",
+  "purchase_date": "2022-08-26",
+  "product": "coffee machine",
+  "price": "4707"
+}, {
+  "client": "Jose Wright",
+  "purchase_date": "2022-08-08",
+  "product": "Vacuum cleaner",
+  "price": "246"
+}, {
+  "client": "Kimberly Stone",
+  "purchase_date": "2022-08-30",
+  "product": "Vacuum cleaner",
+  "price": "745"
+}, {
+  "client": "Andrew Howard",
+  "purchase_date": "2022-08-05",
+  "product": "TV",
+  "price": "963"
+}, {
+  "client": "Catherine Adams",
+  "purchase_date": "2022-08-28",
+  "product": "coffee machine",
+  "price": "1364"
+}, {
+  "client": "Cynthia Pena",
+  "purchase_date": "2022-08-09",
+  "product": "TV",
+  "price": "716"
+}, {
+  "client": "Rachel Martin",
+  "purchase_date": "2022-08-19",
+  "product": "Microwave oven",
+  "price": "339"
+}, {
+  "client": "Rachel Martin",
+  "purchase_date": "2022-08-14",
+  "product": "Phone",
+  "price": "1334"
+}, {
+  "client": "Kenneth Good",
+  "purchase_date": "2022-08-12",
+  "product": "Vacuum cleaner",
+  "price": "140"
+}, {
+  "client": "Sharon Fuller",
+  "purchase_date": "2022-08-14",
+  "product": "Phone",
+  "price": "1455"
+}, {
+  "client": "Sharon Fuller",
+  "purchase_date": "2022-08-10",
+  "product": "Vacuum cleaner",
+  "price": "102"
+}, {
+  "client": "Jenna Richardson",
+  "purchase_date": "2022-08-19",
+  "product": "Laptop",
+  "price": "865"
+}, {
+  "client": "Daniel Estes",
+  "purchase_date": "2022-08-07",
+  "product": "Laptop",
+  "price": "2641"
+}, {
+  "client": "Sharon Dyer",
+  "purchase_date": "2022-08-25",
+  "product": "Phone",
+  "price": "171"
+}, {
+  "client": "Sharon Dyer",
+  "purchase_date": "2022-08-19",
+  "product": "Phone",
+  "price": "1011"
+}, {
+  "client": "Sharon Dyer",
+  "purchase_date": "2022-08-05",
+  "product": "Microwave oven",
+  "price": "380"
+}, {
+  "client": "Cynthia Morgan",
+  "purchase_date": "2022-08-21",
+  "product": "coffee machine",
+  "price": "4765"
+}, {
+  "client": "Cynthia Morgan",
+  "purchase_date": "2022-08-30",
+  "product": "Microwave oven",
+  "price": "298"
+}, {
+  "client": "Erica Thomas",
+  "purchase_date": "2022-08-15",
+  "product": "Phone",
+  "price": "344"
+}, {
+  "client": "Krista Herrera",
+  "purchase_date": "2022-08-09",
+  "product": "Laptop",
+  "price": "3151"
+}, {
+  "client": "Krista Herrera",
+  "purchase_date": "2022-08-12",
+  "product": "Phone",
+  "price": "323"
+}, {
+  "client": "Ashley Weeks",
+  "purchase_date": "2022-08-13",
+  "product": "Vacuum cleaner",
+  "price": "106"
+}, {
+  "client": "Michael Burke",
+  "purchase_date": "2022-08-25",
+  "product": "TV",
+  "price": "1793"
+}, {
+  "client": "Michael Burke",
+  "purchase_date": "2022-08-20",
+  "product": "Phone",
+  "price": "1195"
+}, {
+  "client": "Michael Burke",
+  "purchase_date": "2022-08-20",
+  "product": "Vacuum cleaner",
+  "price": "559"
+}, {
+  "client": "Michelle Davis",
+  "purchase_date": "2022-08-09",
+  "product": "Laptop",
+  "price": "530"
+}, {
+  "client": "Tyler Munoz",
+  "purchase_date": "2022-08-07",
+  "product": "coffee machine",
+  "price": "2206"
+}, {
+  "client": "Tyler Munoz",
+  "purchase_date": "2022-08-09",
+  "product": "Vacuum cleaner",
+  "price": "562"
+}, {
+  "client": "Tyler Munoz",
+  "purchase_date": "2022-08-05",
+  "product": "Microwave oven",
+  "price": "306"
+}, {
+  "client": "Justin Miller",
+  "purchase_date": "2022-08-23",
+  "product": "Phone",
+  "price": "502"
+}, {
+  "client": "Justin Miller",
+  "purchase_date": "2022-08-11",
+  "product": "TV",
+  "price": "925"
+}, {
+  "client": "Justin Miller",
+  "purchase_date": "2022-08-22",
+  "product": "Phone",
+  "price": "373"
+}, {
+  "client": "Michael Mcconnell",
+  "purchase_date": "2022-08-20",
+  "product": "Phone",
+  "price": "810"
+}, {
+  "client": "Michael Mcconnell",
+  "purchase_date": "2022-08-11",
+  "product": "coffee machine",
+  "price": "1677"
+}, {
+  "client": "Michael Mcconnell",
+  "purchase_date": "2022-08-21",
+  "product": "Vacuum cleaner",
+  "price": "210"
+}, {
+  "client": "Anthony Bird",
+  "purchase_date": "2022-08-15",
+  "product": "Phone",
+  "price": "1117"
+}, {
+  "client": "Lisa Hansen",
+  "purchase_date": "2022-08-14",
+  "product": "coffee machine",
+  "price": "3000"
+}, {
+  "client": "Steven Farrell",
+  "purchase_date": "2022-08-19",
+  "product": "Vacuum cleaner",
+  "price": "453"
+}, {
+  "client": "Steven Farrell",
+  "purchase_date": "2022-08-18",
+  "product": "TV",
+  "price": "679"
+}, {
+  "client": "Steven Farrell",
+  "purchase_date": "2022-08-04",
+  "product": "Vacuum cleaner",
+  "price": "214"
+}]

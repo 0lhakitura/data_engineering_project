@@ -1,0 +1,13 @@
+[
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "details": {
+      "age": 40,
+      "address": {
+        "city": "Chicago",
+        "state": "IL"
+      }
+    }
+  }
+]

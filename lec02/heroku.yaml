@@ -1,0 +1,8 @@
+build:
+  docker:
+    web: "<add your code here>"
+    worker: "<add your code here>"
+
+run:
+  web: python app.py
+  worker: "<add your code here>"

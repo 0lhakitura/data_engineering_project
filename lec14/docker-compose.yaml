@@ -1,0 +1,74 @@
+version: '3.7'
+
+services:
+  spark-master:
+    build: ./spark-base
+    image: spark-image
+    container_name: spark-master
+    entrypoint: ['/opt/spark/entrypoint.sh', 'master']
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:8080" ]
+      interval: 5s
+      timeout: 3s
+      retries: 3
+    volumes:
+      - shared-workspace:/opt/workspace
+      - ./scripts:/opt/spark/scripts
+      - ./data:/opt/workspace/data
+      - ./notebooks:/opt/workspace/notebooks
+      - ./spark-logs:/opt/spark/spark-events
+    env_file:
+      - ./spark-base/.env.spark
+    ports:
+      - '8080:8080' # Spark master Web UI
+      - '7077:7077' # For spark-node-to-spark-node queries
+      - '4040:4040' # Spark worker data
+      - "8889:8889" # JupyterLab
+    networks:
+      - spark
+  spark-history-server:
+    container_name: spark-history
+    image: spark-image
+    entrypoint: ['/opt/spark/entrypoint.sh', 'history']
+    depends_on:
+      - spark-master
+    env_file:
+      - ./spark-base/.env.spark
+    volumes:
+      - shared-workspace:/opt/workspace
+      - ./scripts:/opt/spark/scripts
+      - ./data:/opt/workspace/data
+      - ./spark-logs:/opt/spark/spark-events
+    ports:
+      - '18080:18080'
+    networks:
+      - spark
+
+  spark-worker:
+    container_name: spark-worker
+    image: spark-image
+    entrypoint: ['/opt/spark/entrypoint.sh', 'worker']
+    depends_on:
+      - spark-master
+    env_file:
+      - ./spark-base/.env.spark
+    volumes:
+      - shared-workspace:/opt/workspace
+      - ./scripts:/opt/spark/scripts
+      - ./data:/opt/workspace/data
+      - ./spark-logs:/opt/spark/spark-events
+    networks:
+      - spark
+
+
+networks:
+  spark:
+    driver: bridge
+
+volumes:
+  shared-workspace:
+    name: "hadoop-distributed-file-system"
+    driver: local
+  spark-events:
+    driver: local
+  spark-logs:
