@@ -1,0 +1,26 @@
+Final Project створено успішно!
+
+ Структура:
+   - airflow/dags/ - 5 DAG файлів
+   - spark_local/ - 6 PySpark ETL скриптів
+   - data/ - Raw дані (sales, customers, user_profiles)
+   - postgresql/ - 3 SQL скрипти (опціонально)
+
+ Пайплайни:
+   1. process_sales - щоденний запуск
+   2. process_customers - щоденний запуск
+   3. process_user_profiles - ручний запуск
+   4. enrich_user_profiles - ручний запуск (автоматично після user_profiles)
+
+ Швидкий старт:
+   ./setup.sh
+   export AIRFLOW_HOME=$(pwd)
+   airflow webserver --port 8080
+   airflow scheduler
+
+ Документація:
+   - README.md - повна документація
+   - QUICK_START.md - швидкий старт
+   - PROJECT_STRUCTURE.md - структура проекту
+
+ Всі файли адаптовані для локального PySpark (без AWS)
