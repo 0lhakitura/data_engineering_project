@@ -22,24 +22,29 @@ class DbtHook(BaseHook):
         profile: str,
         target: Optional[str] = None,
         project_dir: Optional[str] = None,
+        profiles_dir: Optional[str] = None,
         env_vars: Optional[Dict[str, str]] = None,
     ) -> None:
         super().__init__()
         self.profile = profile
         self.target = target
         self.project_dir = project_dir
+        self.profiles_dir = profiles_dir
         self.env_vars = env_vars or {}
         
     def _get_env(self) -> Dict[str, str]:
         """Get environment variables for dbt command."""
         env = os.environ.copy()
         env.update(self.env_vars)
+        # Set DBT_PROFILES_DIR if profiles_dir is specified
+        if self.profiles_dir:
+            env['DBT_PROFILES_DIR'] = self.profiles_dir
         return env
         
     def _get_command_prefix(self) -> List[str]:
         """Get dbt command prefix with common options."""
         cmd = ["dbt"]
-        
+
         if self.profile:
             cmd.extend(["--profile", self.profile])
             
@@ -88,11 +93,9 @@ class DbtHook(BaseHook):
             cmd.extend(["--select", " ".join(select)])
             
         if vars:
-            # Convert dict to JSON string for dbt --vars
             vars_str = json.dumps(vars)
             cmd.extend(["--vars", vars_str])
             
-        # Add boolean flags
         if full_refresh:
             cmd.append("--full-refresh")
             
@@ -101,7 +104,6 @@ class DbtHook(BaseHook):
                 
         self.log.info(f"Running dbt command: {' '.join(cmd)}")
         
-        # Run the command
         process = subprocess.Popen(
             cmd,
             stdout=subprocess.PIPE,
@@ -145,7 +147,6 @@ class DbtHook(BaseHook):
     
     def parse_json_results(self, output: str) -> Dict:
         """Parse dbt JSON output into Python dict."""
-        # Find and extract the JSON part from the output
         try:
             start_index = output.find('{')
             end_index = output.rfind('}') + 1
