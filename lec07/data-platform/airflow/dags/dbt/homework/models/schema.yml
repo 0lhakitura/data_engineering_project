@@ -1,0 +1,93 @@
+version: 2
+
+models:
+  - name: stg_iris
+    description: "Staging table for the Iris dataset"
+    tests:
+      - dbt_utils.expression_is_true:
+          arguments:
+            expression: "(SELECT COUNT(*) FROM {{ ref('stg_iris') }}) = 150"
+          config:
+            severity: error
+    columns:
+      - name: sepal_length
+        description: "Sepal length in cm"
+        tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 0
+                max_value: 10
+                inclusive: true
+      - name: sepal_width
+        description: "Sepal width in cm"
+        tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 0
+                max_value: 10
+                inclusive: true
+      - name: petal_length
+        description: "Petal length in cm"
+        tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 0
+                max_value: 10
+                inclusive: true
+      - name: petal_width
+        description: "Petal width in cm"
+        tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 0
+                max_value: 10
+                inclusive: true
+      - name: species
+        description: "Species of Iris flower"
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['setosa', 'versicolor', 'virginica']
+
+  - name: iris_processed
+    description: "Processed Iris dataset with ML preprocessing transformations"
+    tests:
+      - dbt_utils.expression_is_true:
+          arguments:
+            expression: "(SELECT COUNT(*) FROM {{ ref('iris_processed') }}) = 150"
+          config:
+            severity: error
+    columns:
+      - name: sepal_length
+        description: "Original sepal length in cm"
+        tests:
+          - not_null
+      - name: sepal_width
+        description: "Original sepal width in cm"
+        tests:
+          - not_null
+      - name: petal_length
+        description: "Original petal length in cm"
+        tests:
+          - not_null
+      - name: petal_width
+        description: "Original petal width in cm"
+        tests:
+          - not_null
+      - name: species
+        description: "Original species name"
+        tests:
+          - not_null
+      - name: species_label_encoded
+        description: "Label encoded species (0, 1, or 2)"
+        tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 0
+                max_value: 2
+                inclusive: true

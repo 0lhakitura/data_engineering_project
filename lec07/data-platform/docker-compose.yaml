@@ -1,0 +1,161 @@
+version: '3.8'
+
+services:
+  postgres_analytics:
+    build:
+      context: ./postgres_analytics
+      dockerfile: Dockerfile
+    container_name: postgres_analytics
+    environment:
+      POSTGRES_USER: ${POSTGRES_ANALYTICS_DATAUSER:-datauser}
+      POSTGRES_PASSWORD: ${POSTGRES_ANALYTICS_DATAPASSWORD:-admin}
+      POSTGRES_DB: ${POSTGRES_ANALYTICS_DB:-analytics}
+      POSTGRES_ANALYTICS_DATAUSER: ${POSTGRES_ANALYTICS_DATAUSER:-datauser}
+      POSTGRES_ANALYTICS_DATAPASSWORD: ${POSTGRES_ANALYTICS_DATAPASSWORD:-admin}
+      POSTGRES_ANALYTICS_DB: ${POSTGRES_ANALYTICS_DB:-analytics}
+      ANALYTICS_READONLY_USER: ${ANALYTICS_READONLY_USER:-analytics_reader}
+      ANALYTICS_READONLY_PASSWORD: ${ANALYTICS_READONLY_PASSWORD:-admin}
+      ETL_USER: ${ETL_USER:-etl_user}
+      ETL_PASSWORD: ${ETL_PASSWORD:-admin}
+      ANALYTICS_DB: ${POSTGRES_ANALYTICS_DB:-analytics}
+    ports:
+      - "5434:5432"
+    volumes:
+      - postgres_analytics_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_ANALYTICS_DATAUSER:-datauser}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - data_network
+
+  postgres_airflow:
+    build:
+      context: ./postgres_airflow
+      dockerfile: Dockerfile
+    container_name: postgres_airflow
+    environment:
+      POSTGRES_USER: ${POSTGRES_AIRFLOW_USER:-airflowuser}
+      POSTGRES_PASSWORD: ${POSTGRES_AIRFLOW_PASSWORD:-admin}
+      POSTGRES_DB: ${POSTGRES_AIRFLOW_DB:-airflow}
+      POSTGRES_AIRFLOW_USER: ${POSTGRES_AIRFLOW_USER:-airflowuser}
+      POSTGRES_AIRFLOW_PASSWORD: ${POSTGRES_AIRFLOW_PASSWORD:-admin}
+      POSTGRES_AIRFLOW_DB: ${POSTGRES_AIRFLOW_DB:-airflow}
+      AIRFLOW_READONLY_USER: ${AIRFLOW_READONLY_USER:-airflow_reader}
+      AIRFLOW_READONLY_PASSWORD: ${AIRFLOW_READONLY_PASSWORD:-admin}
+    ports:
+      - "5435:5432"
+    volumes:
+      - postgres_airflow_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_AIRFLOW_USER:-airflowuser}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - data_network
+
+  airflow-webserver:
+    build:
+      context: ./airflow
+      dockerfile: Dockerfile
+    container_name: airflow_webserver
+    command: webserver
+    environment:
+      - POSTGRES_ANALYTICS_HOST=postgres_analytics
+      - POSTGRES_ANALYTICS_DB=${POSTGRES_ANALYTICS_DB:-analytics}
+      - POSTGRES_PORT=5432
+      - ETL_USER=${ETL_USER:-etl_user}
+      - ETL_PASSWORD=${ETL_PASSWORD:-admin}
+      - ANALYTICS_DB=${POSTGRES_ANALYTICS_DB:-analytics}
+      - POSTGRES_AIRFLOW_HOST=postgres_airflow
+      - POSTGRES_AIRFLOW_USER=${POSTGRES_AIRFLOW_USER:-airflowuser}
+      - POSTGRES_AIRFLOW_PASSWORD=${POSTGRES_AIRFLOW_PASSWORD:-admin}
+      - POSTGRES_AIRFLOW_DB=${POSTGRES_AIRFLOW_DB:-airflow}
+      - AIRFLOW_FERNET_KEY=${AIRFLOW_FERNET_KEY:-}
+      - AIRFLOW_SECRET_KEY=${AIRFLOW_SECRET_KEY:-}
+      - ANALYTICS_READONLY_USER=${ANALYTICS_READONLY_USER:-analytics_reader}
+      - ANALYTICS_READONLY_PASSWORD=${ANALYTICS_READONLY_PASSWORD:-admin}
+      - AIRFLOW_UID=50000
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./airflow/plugins:/opt/airflow/plugins
+      - airflow_logs:/opt/airflow/logs
+      - airflow_models:/opt/airflow/models
+      - airflow_inference_results:/opt/airflow/inference_results
+    ports:
+      - "8081:8080"  # Зовнішній порт 8081 (8080 зайнятий Zookeeper)
+    depends_on:
+      postgres_airflow:
+        condition: service_healthy
+      postgres_analytics:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    networks:
+      - data_network
+
+  airflow-scheduler:
+    build:
+      context: ./airflow
+      dockerfile: Dockerfile
+    container_name: airflow_scheduler
+    command: scheduler
+    environment:
+      - POSTGRES_ANALYTICS_HOST=postgres_analytics
+      - POSTGRES_ANALYTICS_DB=${POSTGRES_ANALYTICS_DB:-analytics}
+      - POSTGRES_PORT=5432
+      - ETL_USER=${ETL_USER:-etl_user}
+      - ETL_PASSWORD=${ETL_PASSWORD:-admin}
+      - ANALYTICS_DB=${POSTGRES_ANALYTICS_DB:-analytics}
+      - POSTGRES_AIRFLOW_HOST=postgres_airflow
+      - POSTGRES_AIRFLOW_USER=${POSTGRES_AIRFLOW_USER:-airflowuser}
+      - POSTGRES_AIRFLOW_PASSWORD=${POSTGRES_AIRFLOW_PASSWORD:-admin}
+      - POSTGRES_AIRFLOW_DB=${POSTGRES_AIRFLOW_DB:-airflow}
+      - AIRFLOW_FERNET_KEY=${AIRFLOW_FERNET_KEY:-}
+      - AIRFLOW_SECRET_KEY=${AIRFLOW_SECRET_KEY:-}
+      - ANALYTICS_READONLY_USER=${ANALYTICS_READONLY_USER:-analytics_reader}
+      - ANALYTICS_READONLY_PASSWORD=${ANALYTICS_READONLY_PASSWORD:-admin}
+      - MODELS_DIR=/opt/airflow/models
+      - RESULTS_DIR=/opt/airflow/inference_results
+      - AIRFLOW_UID=50000
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./airflow/plugins:/opt/airflow/plugins
+      - airflow_logs:/opt/airflow/logs
+      - airflow_models:/opt/airflow/models
+      - airflow_inference_results:/opt/airflow/inference_results
+    depends_on:
+      postgres_airflow:
+        condition: service_healthy
+      postgres_analytics:
+        condition: service_healthy
+      airflow-webserver:
+        condition: service_healthy
+    networks:
+      - data_network
+
+  mailhog:
+    image: mailhog/mailhog:latest
+    container_name: mailhog
+    ports:
+      - "1025:1025"  # SMTP port
+      - "8025:8025"  # Web UI port
+    networks:
+      - data_network
+
+volumes:
+  postgres_analytics_data:
+  postgres_airflow_data:
+  airflow_logs:
+  airflow_models:
+  airflow_inference_results:
+
+networks:
+  data_network:
+    driver: bridge
+
